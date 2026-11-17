@@ -1,4 +1,4 @@
-# State parliament processes in their political context
+# Repository for paper in review: Making Sense of Process Dynamics in Legislative Processes Through Political Context
 
 Data and scripts accompanying the paper on how electoral cycles and government–opposition
 constellations shape long-term legislative process behaviour in three German state parliaments:
