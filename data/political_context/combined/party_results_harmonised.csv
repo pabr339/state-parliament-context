@@ -1,0 +1,306 @@
+election_id,state,election_date,prev_election_date,party,party_labels,party_family,votes,vote_pct,seats,seat_pct,prev_votes,prev_vote_pct,prev_seats,prev_source,change_pp,change_rel_pct,change_votes,change_seats,prev_listed,in_parliament,was_in_parliament,entered_parliament,role_initial,in_gov_any_time,gov_share_of_cycle,tolerating_any_time
+BB_1990-10-14,BB,1990-10-14,,SPD,SPD,Social democratic,487134,38.24,36,40.91,,,,,,,,,,True,,,government,True,0.987,False
+BB_1990-10-14,BB,1990-10-14,,CDU,CDU,Christian democratic / conservative,374572,29.4,27,30.68,,,,,,,,,,True,,,opposition,False,0.0,False
+BB_1990-10-14,BB,1990-10-14,,LINKE,PDS (LL/PDS),Left / post-socialist,170804,13.41,13,14.77,,,,,,,,,,True,,,opposition,False,0.0,False
+BB_1990-10-14,BB,1990-10-14,,GRUENE,Bündnis 90 + Grüne,Green,117963,9.26,6,6.82,,,,,,,,,,True,,,government,True,0.852,False
+BB_1990-10-14,BB,1990-10-14,,FDP,FDP,Liberal,84501,6.63,6,6.82,,,,,,,,,,True,,,government,True,0.987,False
+BB_1990-10-14,BB,1990-10-14,,OTHER,Sonstige,,24301,1.91,0,0.0,,,,,,,,,,False,,,,,,
+BB_1990-10-14,BB,1990-10-14,,REP,REP,Radical right,14631,1.15,0,0.0,,,,,,,,,,False,,,extra-parliamentary,False,0.0,False
+BB_1994-09-11,BB,1994-09-11,1990-10-14,SPD,SPD,Social democratic,580422,54.14,52,59.09,487134.0,38.24,36.0,,15.9,41.59,93288.0,16.0,True,True,True,False,government,True,1.0,False
+BB_1994-09-11,BB,1994-09-11,1990-10-14,CDU,CDU,Christian democratic / conservative,200700,18.72,18,20.45,374572.0,29.4,27.0,,-10.68,-36.33,-173872.0,-9.0,True,True,True,False,opposition,False,0.0,False
+BB_1994-09-11,BB,1994-09-11,1990-10-14,LINKE,PDS,Left / post-socialist,200628,18.71,18,20.45,170804.0,13.41,13.0,,5.31,39.58,29824.0,5.0,True,True,True,False,opposition,False,0.0,False
+BB_1994-09-11,BB,1994-09-11,1990-10-14,GRUENE,GRÜNE/B 90,Green,31033,2.89,0,0.0,117963.0,9.26,6.0,,-6.37,-68.74,-86930.0,-6.0,True,False,True,False,extra-parliamentary,False,0.0,False
+BB_1994-09-11,BB,1994-09-11,1990-10-14,OTHER,Sonstige (incl. REP),,25290,2.36,0,0.0,24301.0,1.91,0.0,,0.45,23.67,989.0,0.0,True,False,False,False,,,,
+BB_1994-09-11,BB,1994-09-11,1990-10-14,FDP,FDP,Liberal,23541,2.2,0,0.0,84501.0,6.63,6.0,,-4.44,-66.89,-60960.0,-6.0,True,False,True,False,extra-parliamentary,True,0.016,False
+BB_1994-09-11,BB,1994-09-11,1990-10-14,X_BÜRGER,Bürger,,10405,0.97,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BB_1999-09-05,BB,1999-09-05,1994-09-11,SPD,SPD,Social democratic,433521,39.33,37,41.57,580422.0,54.14,52.0,,-14.82,-27.37,-146901.0,-15.0,True,True,True,False,government,True,1.0,False
+BB_1999-09-05,BB,1999-09-05,1994-09-11,CDU,CDU,Christian democratic / conservative,292634,26.55,25,28.09,200700.0,18.72,18.0,,7.82,41.79,91934.0,7.0,True,True,True,False,government,True,0.979,False
+BB_1999-09-05,BB,1999-09-05,1994-09-11,LINKE,PDS,Left / post-socialist,257309,23.34,22,24.72,200628.0,18.71,18.0,,4.63,24.72,56681.0,4.0,True,True,True,False,opposition,False,0.0,False
+BB_1999-09-05,BB,1999-09-05,1994-09-11,DVU,DVU,Radical right,58247,5.28,5,5.62,,,,,,,,,False,True,False,True,opposition,False,0.0,False
+BB_1999-09-05,BB,1999-09-05,1994-09-11,GRUENE,GRÜNE/B 90,Green,21410,1.94,0,0.0,31033.0,2.89,0.0,,-0.95,-32.91,-9623.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BB_1999-09-05,BB,1999-09-05,1994-09-11,FDP,FDP,Liberal,20472,1.86,0,0.0,23541.0,2.2,0.0,,-0.34,-15.43,-3069.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BB_1999-09-05,BB,1999-09-05,1994-09-11,NPD,NPD,Radical right,8137,0.74,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BB_1999-09-05,BB,1999-09-05,1994-09-11,X_BFWG,BFWG,,7008,0.64,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BB_1999-09-05,BB,1999-09-05,1994-09-11,OTHER,Sonstige,,3622,0.33,0,0.0,25290.0,2.36,0.0,,-2.03,-86.07,-21668.0,0.0,True,False,False,False,,,,
+BB_2004-09-19,BB,2004-09-19,1999-09-05,SPD,SPD,Social democratic,372942,31.91,33,37.5,433521.0,39.33,37.0,,-7.42,-18.87,-60579.0,-4.0,True,True,True,False,government,True,1.0,False
+BB_2004-09-19,BB,2004-09-19,1999-09-05,LINKE,PDS,Left / post-socialist,326801,27.96,29,32.95,257309.0,23.34,22.0,,4.62,19.78,69492.0,7.0,True,True,True,False,opposition,False,0.0,False
+BB_2004-09-19,BB,2004-09-19,1999-09-05,CDU,CDU,Christian democratic / conservative,227062,19.43,20,22.73,292634.0,26.55,25.0,,-7.12,-26.83,-65572.0,-5.0,True,True,True,False,government,True,1.0,False
+BB_2004-09-19,BB,2004-09-19,1999-09-05,DVU,DVU,Radical right,71041,6.08,6,6.82,58247.0,5.28,5.0,,0.79,15.02,12794.0,1.0,True,True,True,False,opposition,False,0.0,False
+BB_2004-09-19,BB,2004-09-19,1999-09-05,GRUENE,GRÜNE/B 90,Green,42091,3.6,0,0.0,21410.0,1.94,0.0,,1.66,85.4,20681.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BB_2004-09-19,BB,2004-09-19,1999-09-05,FDP,FDP,Liberal,38890,3.33,0,0.0,20472.0,1.86,0.0,,1.47,79.15,18418.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BB_2004-09-19,BB,2004-09-19,1999-09-05,X_FAMILIE,FAMILIE,,30843,2.64,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BB_2004-09-19,BB,2004-09-19,1999-09-05,50PLUS,50Plus,,11875,1.02,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BB_2004-09-19,BB,2004-09-19,1999-09-05,X_AFW,AfW,,11006,0.94,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BB_2004-09-19,BB,2004-09-19,1999-09-05,GRAUE,GRAUE,,10470,0.9,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BB_2004-09-19,BB,2004-09-19,1999-09-05,X_AUB-BRANDENBURG,AUB-Brandenburg,,9993,0.85,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BB_2004-09-19,BB,2004-09-19,1999-09-05,OTHER,Sonstige,,9905,0.85,0,0.0,3622.0,0.33,0.0,,0.52,157.9,6283.0,0.0,True,False,False,False,,,,
+BB_2004-09-19,BB,2004-09-19,1999-09-05,X_BRB,BRB,,5990,0.51,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BB_2009-09-27,BB,2009-09-27,2004-09-19,SPD,SPD,Social democratic,458840,33.04,31,35.23,372942.0,31.91,33.0,,1.14,3.56,85898.0,-2.0,True,True,True,False,government,True,1.0,False
+BB_2009-09-27,BB,2009-09-27,2004-09-19,LINKE,DIE LINKE,Left / post-socialist,377112,27.16,26,29.55,326801.0,27.96,29.0,,-0.8,-2.87,50311.0,-3.0,True,True,True,False,government,True,0.978,False
+BB_2009-09-27,BB,2009-09-27,2004-09-19,CDU,CDU,Christian democratic / conservative,274825,19.79,19,21.59,227062.0,19.43,20.0,,0.36,1.88,47763.0,-1.0,True,True,True,False,opposition,True,0.022,False
+BB_2009-09-27,BB,2009-09-27,2004-09-19,FDP,FDP,Liberal,100123,7.21,7,7.95,38890.0,3.33,0.0,,3.88,116.7,61233.0,7.0,True,True,False,True,opposition,False,0.0,False
+BB_2009-09-27,BB,2009-09-27,2004-09-19,GRUENE,GRÜNE/B 90,Green,78550,5.66,5,5.68,42091.0,3.6,0.0,,2.06,57.08,36459.0,5.0,True,True,False,True,opposition,False,0.0,False
+BB_2009-09-27,BB,2009-09-27,2004-09-19,NPD,NPD,Radical right,35544,2.56,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BB_2009-09-27,BB,2009-09-27,2004-09-19,FW,FREIE WÄHLER,Free voters / regionalist,23296,1.68,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BB_2009-09-27,BB,2009-09-27,2004-09-19,DVU,DVU,Radical right,15903,1.15,0,0.0,71041.0,6.08,6.0,,-4.93,-81.16,-55138.0,-6.0,True,False,True,False,extra-parliamentary,False,0.0,False
+BB_2009-09-27,BB,2009-09-27,2004-09-19,OTHER,Sonstige,,9728,0.7,0,0.0,9905.0,0.85,0.0,,-0.15,-17.33,-177.0,0.0,True,False,False,False,,,,
+BB_2009-09-27,BB,2009-09-27,2004-09-19,50PLUS,50Plus,,7905,0.57,0,0.0,11875.0,1.02,0.0,,-0.45,-43.97,-3970.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BB_2009-09-27,BB,2009-09-27,2004-09-19,X_RRP,RRP,,6896,0.5,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BB_2014-09-14,BB,2014-09-14,2009-09-27,SPD,SPD,Social democratic,315202,31.92,30,34.09,458840.0,33.04,31.0,,-1.12,-3.38,-143638.0,-1.0,True,True,True,False,government,True,1.0,False
+BB_2014-09-14,BB,2014-09-14,2009-09-27,CDU,CDU,Christian democratic / conservative,226835,22.97,21,23.86,274825.0,19.79,19.0,,3.19,16.09,-47990.0,2.0,True,True,True,False,opposition,False,0.0,False
+BB_2014-09-14,BB,2014-09-14,2009-09-27,LINKE,DIE LINKE,Left / post-socialist,183178,18.55,17,19.32,377112.0,27.16,26.0,,-8.6,-31.68,-193934.0,-9.0,True,True,True,False,government,True,1.0,False
+BB_2014-09-14,BB,2014-09-14,2009-09-27,AFD,AfD,Radical right,120077,12.16,11,12.5,,,,,,,,,False,True,False,True,opposition,False,0.0,False
+BB_2014-09-14,BB,2014-09-14,2009-09-27,GRUENE,GRÜNE/B 90,Green,60767,6.15,6,6.82,78550.0,5.66,5.0,,0.5,8.81,-17783.0,1.0,True,True,True,False,opposition,False,0.0,False
+BB_2014-09-14,BB,2014-09-14,2009-09-27,FW,BVB / FREIE WÄHLER,Free voters / regionalist,26317,2.67,3,3.41,23296.0,1.68,0.0,,0.99,58.9,3021.0,3.0,True,True,False,True,opposition,False,0.0,False
+BB_2014-09-14,BB,2014-09-14,2009-09-27,NPD,NPD,Radical right,21605,2.19,0,0.0,35544.0,2.56,0.0,,-0.37,-14.5,-13939.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BB_2014-09-14,BB,2014-09-14,2009-09-27,PIRATEN,PIRATEN,Pirate / digital,14595,1.48,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BB_2014-09-14,BB,2014-09-14,2009-09-27,FDP,FDP,Liberal,14376,1.46,0,0.0,100123.0,7.21,7.0,,-5.75,-79.8,-85747.0,-7.0,True,False,True,False,extra-parliamentary,False,0.0,False
+BB_2014-09-14,BB,2014-09-14,2009-09-27,OTHER,Sonstige,,4369,0.44,0,0.0,9728.0,0.7,0.0,,-0.26,-36.83,-5359.0,0.0,True,False,False,False,,,,
+BB_2019-09-01,BB,2019-09-01,2014-09-14,SPD,SPD,Social democratic,331238,26.18,25,28.41,315202.0,31.92,30.0,,-5.74,-17.99,16036.0,-5.0,True,True,True,False,government,True,1.0,False
+BB_2019-09-01,BB,2019-09-01,2014-09-14,AFD,AfD,Radical right,297484,23.51,23,26.14,120077.0,12.16,11.0,,11.35,93.35,177407.0,12.0,True,True,True,False,opposition,False,0.0,False
+BB_2019-09-01,BB,2019-09-01,2014-09-14,CDU,CDU,Christian democratic / conservative,196988,15.57,15,17.05,226835.0,22.97,21.0,,-7.4,-32.23,-29847.0,-6.0,True,True,True,False,government,True,0.957,False
+BB_2019-09-01,BB,2019-09-01,2014-09-14,GRUENE,GRÜNE/B 90,Green,136364,10.78,10,11.36,60767.0,6.15,6.0,,4.62,75.13,75597.0,4.0,True,True,True,False,government,True,0.957,False
+BB_2019-09-01,BB,2019-09-01,2014-09-14,LINKE,DIE LINKE,Left / post-socialist,135558,10.72,10,11.36,183178.0,18.55,17.0,,-7.84,-42.25,-47620.0,-7.0,True,True,True,False,opposition,True,0.043,False
+BB_2019-09-01,BB,2019-09-01,2014-09-14,FW,BVB / FREIE WÄHLER,Free voters / regionalist,63851,5.05,5,5.68,26317.0,2.67,3.0,,2.38,89.35,37534.0,2.0,True,True,True,False,opposition,False,0.0,False
+BB_2019-09-01,BB,2019-09-01,2014-09-14,FDP,FDP,Liberal,51660,4.08,0,0.0,14376.0,1.46,0.0,,2.63,180.45,37284.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BB_2019-09-01,BB,2019-09-01,2014-09-14,TIERSCHUTZ,Tierschutzpartei,,32959,2.61,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BB_2019-09-01,BB,2019-09-01,2014-09-14,PIRATEN,PIRATEN,Pirate / digital,8712,0.69,0,0.0,14595.0,1.48,0.0,,-0.79,-53.42,-5883.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BB_2019-09-01,BB,2019-09-01,2014-09-14,OEDP,ÖDP,,7237,0.57,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BB_2019-09-01,BB,2019-09-01,2014-09-14,OTHER,Sonstige,,3055,0.24,0,0.0,4369.0,0.44,0.0,,-0.2,-45.43,-1314.0,0.0,True,False,False,False,,,,
+BB_2024-09-22,BB,2024-09-22,2019-09-01,SPD,SPD,Social democratic,463800,30.89,32,36.36,331238.0,26.18,25.0,,4.7,17.97,132562.0,7.0,True,True,True,False,government,True,1.0,False
+BB_2024-09-22,BB,2024-09-22,2019-09-01,AFD,AfD,Radical right,438904,29.23,30,34.09,297484.0,23.51,23.0,,5.71,24.3,141420.0,7.0,True,True,True,False,opposition,False,0.0,False
+BB_2024-09-22,BB,2024-09-22,2019-09-01,BSW,BSW,Left-conservative / populist,202421,13.48,14,15.91,,,,,,,,,False,True,False,True,government,True,0.52,False
+BB_2024-09-22,BB,2024-09-22,2019-09-01,CDU,CDU,Christian democratic / conservative,181716,12.1,12,13.64,196988.0,15.57,15.0,,-3.47,-22.28,-15272.0,-3.0,True,True,True,False,opposition,True,0.386,False
+BB_2024-09-22,BB,2024-09-22,2019-09-01,GRUENE,GRÜNE/B 90,Green,62057,4.13,0,0.0,136364.0,10.78,10.0,,-6.65,-61.66,-74307.0,-10.0,True,False,True,False,extra-parliamentary,True,0.106,False
+BB_2024-09-22,BB,2024-09-22,2019-09-01,LINKE,DIE LINKE,Left / post-socialist,44706,2.98,0,0.0,135558.0,10.72,10.0,,-7.74,-72.22,-90852.0,-10.0,True,False,True,False,extra-parliamentary,False,0.0,False
+BB_2024-09-22,BB,2024-09-22,2019-09-01,FW,BVB / FREIE WÄHLER,Free voters / regionalist,38573,2.57,0,0.0,63851.0,5.05,5.0,,-2.48,-49.1,-25278.0,-5.0,True,False,True,False,extra-parliamentary,False,0.0,False
+BB_2024-09-22,BB,2024-09-22,2019-09-01,TIERSCHUTZ,Tierschutzpartei,,30041,2.0,0,0.0,32959.0,2.61,0.0,,-0.6,-23.21,-2918.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BB_2024-09-22,BB,2024-09-22,2019-09-01,X_PLUS,Plus,,13584,0.9,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BB_2024-09-22,BB,2024-09-22,2019-09-01,OTHER,Sonstige,,13342,0.89,0,0.0,3055.0,0.24,0.0,,0.65,267.94,10287.0,0.0,True,False,False,False,,,,
+BB_2024-09-22,BB,2024-09-22,2019-09-01,FDP,FDP,Liberal,12475,0.83,0,0.0,51660.0,4.08,0.0,,-3.25,-79.66,-39185.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_1981-05-10,BE,1981-05-10,1979-03-18,CDU,CDU,Christian democratic / conservative,605265,47.95,65,49.24,,44.4,63.0,wahlrecht.de/ergebnisse/berlin.htm (1979),3.55,8.01,,2.0,True,True,True,False,government,True,0.977,False
+BE_1981-05-10,BE,1981-05-10,1979-03-18,SPD,SPD,Social democratic,483778,38.33,51,38.64,,42.7,61.0,wahlrecht.de/ergebnisse/berlin.htm (1979),-4.37,-10.24,,-10.0,True,True,True,False,opposition,True,0.023,False
+BE_1981-05-10,BE,1981-05-10,1979-03-18,GRUENE,AL,Green,90653,7.18,9,6.82,,3.7,0.0,wahlrecht.de/ergebnisse/berlin.htm (1979),3.48,94.12,,9.0,True,True,False,True,opposition,False,0.0,False
+BE_1981-05-10,BE,1981-05-10,1979-03-18,FDP,FDP,Liberal,70529,5.59,7,5.3,,8.1,11.0,wahlrecht.de/ergebnisse/berlin.htm (1979),-2.51,-31.01,,-4.0,True,True,True,False,tolerating,True,0.54,True
+BE_1981-05-10,BE,1981-05-10,1979-03-18,SEW,SEW,Communist,8176,0.65,0,0.0,,1.1,0.0,wahlrecht.de/ergebnisse/berlin.htm (1979),-0.45,-41.11,,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_1981-05-10,BE,1981-05-10,1979-03-18,OTHER,Sonstige,,3765,0.3,0,0.0,,,,wahlrecht.de/ergebnisse/berlin.htm (1979),,,,,False,False,False,False,,,,
+BE_1985-03-10,BE,1985-03-10,1981-05-10,CDU,CDU,Christian democratic / conservative,577867,46.41,69,47.92,605265.0,47.95,65.0,,-1.54,-3.21,-27398.0,4.0,True,True,True,False,government,True,1.0,False
+BE_1985-03-10,BE,1985-03-10,1981-05-10,SPD,SPD,Social democratic,402875,32.36,48,33.33,483778.0,38.33,51.0,,-5.97,-15.58,-80903.0,-3.0,True,True,True,False,opposition,False,0.0,False
+BE_1985-03-10,BE,1985-03-10,1981-05-10,GRUENE,AL,Green,132484,10.64,15,10.42,90653.0,7.18,9.0,,3.46,48.16,41831.0,6.0,True,True,True,False,opposition,False,0.0,False
+BE_1985-03-10,BE,1985-03-10,1981-05-10,FDP,FDP,Liberal,105209,8.45,12,8.33,70529.0,5.59,7.0,,2.86,51.23,34680.0,5.0,True,True,True,False,government,True,1.0,False
+BE_1985-03-10,BE,1985-03-10,1981-05-10,X_DA_(DEMOKRATISCHE_ALTERNATIVE),DA (Demokratische Alternative),,15857,1.27,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BE_1985-03-10,BE,1985-03-10,1981-05-10,SEW,SEW,Communist,7731,0.62,0,0.0,8176.0,0.65,0.0,,-0.03,-4.14,-445.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_1985-03-10,BE,1985-03-10,1981-05-10,OTHER,Sonstige,,2985,0.24,0,0.0,3765.0,0.3,0.0,,-0.06,-19.62,-780.0,0.0,True,False,False,False,,,,
+BE_1989-01-29,BE,1989-01-29,1985-03-10,CDU,CDU,Christian democratic / conservative,453211,37.75,55,39.86,577867.0,46.41,69.0,,-8.67,-18.68,-124656.0,-14.0,True,True,True,False,opposition,True,0.068,False
+BE_1989-01-29,BE,1989-01-29,1985-03-10,SPD,SPD,Social democratic,448203,37.33,55,39.86,402875.0,32.36,48.0,,4.97,15.36,45328.0,7.0,True,True,True,False,government,True,0.932,False
+BE_1989-01-29,BE,1989-01-29,1985-03-10,GRUENE,AL,Green,141529,11.79,17,12.32,132484.0,10.64,15.0,,1.15,10.77,9045.0,2.0,True,True,True,False,government,True,0.912,False
+BE_1989-01-29,BE,1989-01-29,1985-03-10,REP,REP,Radical right,90222,7.51,11,7.97,,,,,,,,,False,True,False,True,opposition,False,0.0,False
+BE_1989-01-29,BE,1989-01-29,1985-03-10,FDP,FDP,Liberal,47153,3.93,0,0.0,105209.0,8.45,12.0,,-4.52,-53.53,-58056.0,-12.0,True,False,True,False,extra-parliamentary,True,0.068,False
+BE_1989-01-29,BE,1989-01-29,1985-03-10,OTHER,Sonstige,,20354,1.7,0,0.0,2985.0,0.24,0.0,,1.46,607.05,17369.0,0.0,True,False,False,False,,,,
+BE_1990-12-02,BE,1990-12-02,1989-01-29,CDU,CDU,Christian democratic / conservative,815382,40.38,101,41.91,453211.0,37.75,55.0,,2.64,6.98,362171.0,46.0,True,True,True,False,government,True,0.97,False
+BE_1990-12-02,BE,1990-12-02,1989-01-29,SPD,SPD,Social democratic,614075,30.41,76,31.54,448203.0,37.33,55.0,,-6.92,-18.53,165872.0,21.0,True,True,True,False,government,True,1.0,False
+BE_1990-12-02,BE,1990-12-02,1989-01-29,GRUENE,GRÜNE/AL + Bündnis 90/Grüne/UFV,Green,188730,9.35,23,9.54,141529.0,11.79,17.0,,-2.44,-20.71,47201.0,6.0,True,True,True,False,opposition,False,0.0,False
+BE_1990-12-02,BE,1990-12-02,1989-01-29,LINKE,PDS,Left / post-socialist,184820,9.15,23,9.54,,,,,,,,,False,True,False,True,opposition,False,0.0,False
+BE_1990-12-02,BE,1990-12-02,1989-01-29,FDP,FDP,Liberal,143080,7.09,18,7.47,47153.0,3.93,0.0,,3.16,80.43,95927.0,18.0,True,True,False,True,opposition,False,0.0,False
+BE_1990-12-02,BE,1990-12-02,1989-01-29,REP,REP,Radical right,62041,3.07,0,0.0,90222.0,7.51,11.0,,-4.44,-59.11,-28181.0,-11.0,True,False,True,False,extra-parliamentary,False,0.0,False
+BE_1990-12-02,BE,1990-12-02,1989-01-29,OTHER,Sonstige,,11070,0.55,0,0.0,20354.0,1.7,0.0,,-1.15,-67.66,-9284.0,0.0,True,False,False,False,,,,
+BE_1995-10-22,BE,1995-10-22,1990-12-02,CDU,CDU,Christian democratic / conservative,625005,37.44,87,42.23,815382.0,40.38,101.0,,-2.94,-7.28,-190377.0,-14.0,True,True,True,False,government,True,1.0,False
+BE_1995-10-22,BE,1995-10-22,1990-12-02,SPD,SPD,Social democratic,393245,23.56,55,26.7,614075.0,30.41,76.0,,-6.85,-22.53,-220830.0,-21.0,True,True,True,False,government,True,1.0,False
+BE_1995-10-22,BE,1995-10-22,1990-12-02,LINKE,PDS,Left / post-socialist,244196,14.63,34,16.5,184820.0,9.15,23.0,,5.48,59.83,59376.0,11.0,True,True,True,False,opposition,False,0.0,False
+BE_1995-10-22,BE,1995-10-22,1990-12-02,GRUENE,GRÜNE,Green,219990,13.18,30,14.56,188730.0,9.35,23.0,,3.83,41.01,31260.0,7.0,True,True,True,False,opposition,False,0.0,False
+BE_1995-10-22,BE,1995-10-22,1990-12-02,OTHER,Sonstige,,70541,4.23,0,0.0,11070.0,0.55,0.0,,3.68,670.85,59471.0,0.0,True,False,False,False,,,,
+BE_1995-10-22,BE,1995-10-22,1990-12-02,REP,REP,Radical right,45462,2.72,0,0.0,62041.0,3.07,0.0,,-0.35,-11.36,-16579.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_1995-10-22,BE,1995-10-22,1990-12-02,FDP,FDP,Liberal,42391,2.54,0,0.0,143080.0,7.09,18.0,,-4.55,-64.16,-100689.0,-18.0,True,False,True,False,extra-parliamentary,False,0.0,False
+BE_1995-10-22,BE,1995-10-22,1990-12-02,GRAUE,GRAUE,,28356,1.7,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BE_1999-10-10,BE,1999-10-10,1995-10-22,CDU,CDU,Christian democratic / conservative,637311,40.76,76,44.97,625005.0,37.44,87.0,,3.32,8.86,12306.0,-11.0,True,True,True,False,government,True,0.829,False
+BE_1999-10-10,BE,1999-10-10,1995-10-22,SPD,SPD,Social democratic,349731,22.37,42,24.85,393245.0,23.56,55.0,,-1.19,-5.06,-43514.0,-13.0,True,True,True,False,government,True,1.0,False
+BE_1999-10-10,BE,1999-10-10,1995-10-22,LINKE,PDS,Left / post-socialist,276869,17.71,33,19.53,244196.0,14.63,34.0,,3.08,21.04,32673.0,-1.0,True,True,True,False,opposition,False,0.0,True
+BE_1999-10-10,BE,1999-10-10,1995-10-22,GRUENE,GRÜNE,Green,155322,9.93,18,10.65,219990.0,13.18,30.0,,-3.25,-24.63,-64668.0,-12.0,True,True,True,False,opposition,True,0.171,False
+BE_1999-10-10,BE,1999-10-10,1995-10-22,REP,REP,Radical right,41814,2.67,0,0.0,45462.0,2.72,0.0,,-0.05,-1.81,-3648.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_1999-10-10,BE,1999-10-10,1995-10-22,FDP,FDP,Liberal,34280,2.19,0,0.0,42391.0,2.54,0.0,,-0.35,-13.67,-8111.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_1999-10-10,BE,1999-10-10,1995-10-22,OTHER,Sonstige,,20920,1.34,0,0.0,70541.0,4.23,0.0,,-2.89,-68.34,-49621.0,0.0,True,False,False,False,,,,
+BE_1999-10-10,BE,1999-10-10,1995-10-22,GRAUE,GRAUE,,17559,1.12,0,0.0,28356.0,1.7,0.0,,-0.58,-33.89,-10797.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_1999-10-10,BE,1999-10-10,1995-10-22,TIERSCHUTZ,Tierschutzpartei,,16732,1.07,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BE_1999-10-10,BE,1999-10-10,1995-10-22,NPD,NPD,Radical right,13038,0.83,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BE_2001-10-21,BE,2001-10-21,1999-10-10,SPD,SPD,Social democratic,481772,29.68,44,31.21,349731.0,22.37,42.0,,7.31,32.68,132041.0,2.0,True,True,True,False,government,True,1.0,False
+BE_2001-10-21,BE,2001-10-21,1999-10-10,CDU,CDU,Christian democratic / conservative,385692,23.76,35,24.82,637311.0,40.76,76.0,,-17.0,-41.71,-251619.0,-41.0,True,True,True,False,opposition,False,0.0,False
+BE_2001-10-21,BE,2001-10-21,1999-10-10,LINKE,PDS,Left / post-socialist,366292,22.56,33,23.4,276869.0,17.71,33.0,,4.86,27.43,89423.0,0.0,True,True,True,False,government,True,0.951,True
+BE_2001-10-21,BE,2001-10-21,1999-10-10,FDP,FDP,Liberal,160953,9.91,15,10.64,34280.0,2.19,0.0,,7.72,352.24,126673.0,15.0,True,True,False,True,opposition,False,0.0,False
+BE_2001-10-21,BE,2001-10-21,1999-10-10,GRUENE,GRÜNE,Green,148066,9.12,14,9.93,155322.0,9.93,18.0,,-0.81,-8.18,-7256.0,-4.0,True,True,True,False,opposition,True,0.049,False
+BE_2001-10-21,BE,2001-10-21,1999-10-10,GRAUE,GRAUE,,22093,1.36,0,0.0,17559.0,1.12,0.0,,0.24,21.19,4534.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2001-10-21,BE,2001-10-21,1999-10-10,REP,REP,Radical right,21836,1.35,0,0.0,41814.0,2.67,0.0,,-1.33,-49.7,-19978.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2001-10-21,BE,2001-10-21,1999-10-10,NPD,NPD,Radical right,15110,0.93,0,0.0,13038.0,0.83,0.0,,0.1,11.63,2072.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2001-10-21,BE,2001-10-21,1999-10-10,X_STATT_PARTEI,STATT Partei,,13396,0.83,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BE_2001-10-21,BE,2001-10-21,1999-10-10,OTHER,Sonstige,,8128,0.5,0,0.0,20920.0,1.34,0.0,,-0.84,-62.58,-12792.0,0.0,True,False,False,False,,,,
+BE_2006-09-17,BE,2006-09-17,2001-10-21,SPD,SPD,Social democratic,424054,30.79,53,35.57,481772.0,29.68,44.0,,1.11,3.74,-57718.0,9.0,True,True,True,False,government,True,1.0,False
+BE_2006-09-17,BE,2006-09-17,2001-10-21,CDU,CDU,Christian democratic / conservative,294026,21.35,37,24.83,385692.0,23.76,35.0,,-2.41,-10.15,-91666.0,2.0,True,True,True,False,opposition,False,0.0,False
+BE_2006-09-17,BE,2006-09-17,2001-10-21,LINKE,Die Linke.PDS,Left / post-socialist,185185,13.44,23,15.44,366292.0,22.56,33.0,,-9.12,-40.41,-181107.0,-10.0,True,True,True,False,government,True,1.0,False
+BE_2006-09-17,BE,2006-09-17,2001-10-21,GRUENE,GRÜNE,Green,180865,13.13,23,15.44,148066.0,9.12,14.0,,4.01,43.97,32799.0,9.0,True,True,True,False,opposition,False,0.0,False
+BE_2006-09-17,BE,2006-09-17,2001-10-21,FDP,FDP,Liberal,104584,7.59,13,8.72,160953.0,9.91,15.0,,-2.32,-23.42,-56369.0,-2.0,True,True,True,False,opposition,False,0.0,False
+BE_2006-09-17,BE,2006-09-17,2001-10-21,GRAUE,GRAUE,,52884,3.84,0,0.0,22093.0,1.36,0.0,,2.48,182.12,30791.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2006-09-17,BE,2006-09-17,2001-10-21,WASG,WASG,Left,40504,2.94,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BE_2006-09-17,BE,2006-09-17,2001-10-21,NPD,NPD,Radical right,35229,2.56,0,0.0,15110.0,0.93,0.0,,1.63,174.79,20119.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2006-09-17,BE,2006-09-17,2001-10-21,OTHER,Sonstige,,26329,1.91,0,0.0,8128.0,0.5,0.0,,1.41,281.78,18201.0,0.0,True,False,False,False,,,,
+BE_2006-09-17,BE,2006-09-17,2001-10-21,REP,REP,Radical right,11922,0.87,0,0.0,21836.0,1.35,0.0,,-0.48,-35.65,-9914.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2006-09-17,BE,2006-09-17,2001-10-21,TIERSCHUTZ,Tierschutzpartei,,11707,0.85,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BE_2006-09-17,BE,2006-09-17,2001-10-21,X_ELTERN,Eltern,,10066,0.73,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BE_2011-09-18,BE,2011-09-18,2006-09-17,SPD,SPD,Social democratic,413332,28.29,47,31.54,424054.0,30.79,53.0,,-2.5,-8.12,-10722.0,-6.0,True,True,True,False,government,True,1.0,False
+BE_2011-09-18,BE,2011-09-18,2006-09-17,CDU,CDU,Christian democratic / conservative,341158,23.35,39,26.17,294026.0,21.35,37.0,,2.0,9.37,47132.0,2.0,True,True,True,False,government,True,0.963,False
+BE_2011-09-18,BE,2011-09-18,2006-09-17,GRUENE,GRÜNE,Green,257063,17.59,29,19.46,180865.0,13.13,23.0,,4.46,33.98,76198.0,6.0,True,True,True,False,opposition,False,0.0,False
+BE_2011-09-18,BE,2011-09-18,2006-09-17,LINKE,DIE LINKE,Left / post-socialist,171050,11.71,19,12.75,185185.0,13.44,23.0,,-1.74,-12.93,-14135.0,-4.0,True,True,True,False,opposition,True,0.037,False
+BE_2011-09-18,BE,2011-09-18,2006-09-17,PIRATEN,PIRATEN,Pirate / digital,130105,8.9,15,10.07,,,,,,,,,False,True,False,True,opposition,False,0.0,False
+BE_2011-09-18,BE,2011-09-18,2006-09-17,NPD,NPD,Radical right,31241,2.14,0,0.0,35229.0,2.56,0.0,,-0.42,-16.41,-3988.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2011-09-18,BE,2011-09-18,2006-09-17,FDP,FDP,Liberal,26943,1.84,0,0.0,104584.0,7.59,13.0,,-5.75,-75.72,-77641.0,-13.0,True,False,True,False,extra-parliamentary,False,0.0,False
+BE_2011-09-18,BE,2011-09-18,2006-09-17,TIERSCHUTZ,Tierschutzpartei,,21654,1.48,0,0.0,11707.0,0.85,0.0,,0.63,74.35,9947.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2011-09-18,BE,2011-09-18,2006-09-17,X_PRO_DEUTSCHLAND,pro Deutschland,,17838,1.22,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BE_2011-09-18,BE,2011-09-18,2006-09-17,OTHER,Sonstige,,15855,1.09,0,0.0,26329.0,1.91,0.0,,-0.83,-43.24,-10474.0,0.0,True,False,False,False,,,,
+BE_2011-09-18,BE,2011-09-18,2006-09-17,X_DIE_FREIHEIT,DIE FREIHEIT,,14073,0.96,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BE_2011-09-18,BE,2011-09-18,2006-09-17,PARTEI,Die PARTEI,,12861,0.88,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BE_2011-09-18,BE,2011-09-18,2006-09-17,X_BIG,BIG,,8012,0.55,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BE_2016-09-18,BE,2016-09-18,2011-09-18,SPD,SPD,Social democratic,352430,21.55,38,23.75,413332.0,28.29,47.0,,-6.73,-23.81,-60902.0,-9.0,True,True,True,False,government,True,1.0,False
+BE_2016-09-18,BE,2016-09-18,2011-09-18,CDU,CDU,Christian democratic / conservative,287997,17.61,31,19.38,341158.0,23.35,39.0,,-5.74,-24.56,-53161.0,-8.0,True,True,True,False,opposition,True,0.044,False
+BE_2016-09-18,BE,2016-09-18,2011-09-18,LINKE,DIE LINKE,Left / post-socialist,255701,15.64,27,16.88,171050.0,11.71,19.0,,3.93,33.58,84651.0,8.0,True,True,True,False,government,True,0.956,False
+BE_2016-09-18,BE,2016-09-18,2011-09-18,GRUENE,GRÜNE,Green,248324,15.19,27,16.88,257063.0,17.59,29.0,,-2.41,-13.68,-8739.0,-2.0,True,True,True,False,government,True,0.956,False
+BE_2016-09-18,BE,2016-09-18,2011-09-18,AFD,AfD,Radical right,231492,14.16,25,15.62,,,,,,,,,False,True,False,True,opposition,False,0.0,False
+BE_2016-09-18,BE,2016-09-18,2011-09-18,FDP,FDP,Liberal,109500,6.7,12,7.5,26943.0,1.84,0.0,,4.85,263.17,82557.0,12.0,True,True,False,True,opposition,False,0.0,False
+BE_2016-09-18,BE,2016-09-18,2011-09-18,PARTEI,Die PARTEI,,31924,1.95,0,0.0,12861.0,0.88,0.0,,1.07,121.81,19063.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2016-09-18,BE,2016-09-18,2011-09-18,OTHER,Sonstige,,31231,1.91,0,0.0,15855.0,1.09,0.0,,0.82,76.02,15376.0,0.0,True,False,False,False,,,,
+BE_2016-09-18,BE,2016-09-18,2011-09-18,TIERSCHUTZ,Tierschutzpartei,,30620,1.87,0,0.0,21654.0,1.48,0.0,,0.39,26.36,8966.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2016-09-18,BE,2016-09-18,2011-09-18,PIRATEN,PIRATEN,Pirate / digital,28332,1.73,0,0.0,130105.0,8.9,15.0,,-7.17,-80.54,-101773.0,-15.0,True,False,True,False,extra-parliamentary,False,0.0,False
+BE_2016-09-18,BE,2016-09-18,2011-09-18,GRAUE,Graue Panther,,18159,1.11,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BE_2016-09-18,BE,2016-09-18,2011-09-18,NPD,NPD,Radical right,9459,0.58,0,0.0,31241.0,2.14,0.0,,-1.56,-72.94,-21782.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2021-09-26,BE,2021-09-26,2016-09-18,SPD,SPD,Social democratic,390329,21.43,36,24.49,352430.0,21.55,38.0,,-0.13,-0.58,37899.0,-2.0,True,True,True,False,government,True,1.0,False
+BE_2021-09-26,BE,2021-09-26,2016-09-18,GRUENE,GRÜNE,Green,343871,18.88,32,21.77,248324.0,15.19,27.0,,3.69,24.3,95547.0,5.0,True,True,True,False,government,True,1.0,False
+BE_2021-09-26,BE,2021-09-26,2016-09-18,CDU,CDU,Christian democratic / conservative,328587,18.04,30,20.41,287997.0,17.61,31.0,,0.43,2.41,40590.0,-1.0,True,True,True,False,opposition,False,0.0,False
+BE_2021-09-26,BE,2021-09-26,2016-09-18,LINKE,DIE LINKE,Left / post-socialist,256063,14.06,24,16.33,255701.0,15.64,27.0,,-1.58,-10.11,362.0,-3.0,True,True,True,False,government,True,1.0,False
+BE_2021-09-26,BE,2021-09-26,2016-09-18,AFD,AfD,Radical right,145712,8.0,13,8.84,231492.0,14.16,25.0,,-6.16,-43.5,-85780.0,-12.0,True,True,True,False,opposition,False,0.0,False
+BE_2021-09-26,BE,2021-09-26,2016-09-18,FDP,FDP,Liberal,130201,7.15,12,8.16,109500.0,6.7,12.0,,0.45,6.73,20701.0,0.0,True,True,True,False,opposition,False,0.0,False
+BE_2021-09-26,BE,2021-09-26,2016-09-18,OTHER,Sonstige,,63909,3.51,0,0.0,31231.0,1.91,0.0,,1.6,83.68,32678.0,0.0,True,False,False,False,,,,
+BE_2021-09-26,BE,2021-09-26,2016-09-18,TIERSCHUTZ,Tierschutzpartei,,40128,2.2,0,0.0,30620.0,1.87,0.0,,0.33,17.64,9508.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2021-09-26,BE,2021-09-26,2016-09-18,PARTEI,Die PARTEI,,32800,1.8,0,0.0,31924.0,1.95,0.0,,-0.15,-7.77,876.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2021-09-26,BE,2021-09-26,2016-09-18,BASIS,dieBasis,,23055,1.27,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BE_2021-09-26,BE,2021-09-26,2016-09-18,VOLT,Volt,,20205,1.11,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BE_2021-09-26,BE,2021-09-26,2016-09-18,X_TEAM_TODENHÖFER,Team Todenhöfer,,18853,1.03,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BE_2021-09-26,BE,2021-09-26,2016-09-18,FW,FREIE WÄHLER,Free voters / regionalist,15297,0.84,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BE_2021-09-26,BE,2021-09-26,2016-09-18,GRAUE,Die Grauen,,12654,0.69,0,0.0,18159.0,1.11,0.0,,-0.42,-37.45,-5505.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2023-02-12,BE,2023-02-12,2021-09-26,CDU,CDU,Christian democratic / conservative,428228,28.23,52,32.7,328587.0,18.04,30.0,,10.19,56.51,99641.0,22.0,True,True,True,False,government,True,0.944,False
+BE_2023-02-12,BE,2023-02-12,2021-09-26,SPD,SPD,Social democratic,279017,18.39,34,21.38,390329.0,21.43,36.0,,-3.03,-14.15,-111312.0,-2.0,True,True,True,False,government,True,1.0,False
+BE_2023-02-12,BE,2023-02-12,2021-09-26,GRUENE,GRÜNE,Green,278964,18.39,34,21.38,343871.0,18.88,32.0,,-0.49,-2.57,-64907.0,2.0,True,True,True,False,opposition,True,0.056,False
+BE_2023-02-12,BE,2023-02-12,2021-09-26,LINKE,DIE LINKE,Left / post-socialist,185119,12.2,22,13.84,256063.0,14.06,24.0,,-1.85,-13.18,-70944.0,-2.0,True,True,True,False,opposition,True,0.056,False
+BE_2023-02-12,BE,2023-02-12,2021-09-26,AFD,AfD,Radical right,137871,9.09,17,10.69,145712.0,8.0,13.0,,1.09,13.63,-7841.0,4.0,True,True,True,False,opposition,False,0.0,False
+BE_2023-02-12,BE,2023-02-12,2021-09-26,FDP,FDP,Liberal,70416,4.64,0,0.0,130201.0,7.15,12.0,,-2.51,-35.05,-59785.0,-12.0,True,False,True,False,extra-parliamentary,False,0.0,False
+BE_2023-02-12,BE,2023-02-12,2021-09-26,OTHER,Sonstige,,57013,3.76,0,0.0,63909.0,3.51,0.0,,0.25,7.14,-6896.0,0.0,True,False,False,False,,,,
+BE_2023-02-12,BE,2023-02-12,2021-09-26,TIERSCHUTZ,Tierschutzpartei,,36273,2.39,0,0.0,40128.0,2.2,0.0,,0.19,8.56,-3855.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2023-02-12,BE,2023-02-12,2021-09-26,PARTEI,Die PARTEI,,21570,1.42,0,0.0,32800.0,1.8,0.0,,-0.38,-21.02,-11230.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2023-02-12,BE,2023-02-12,2021-09-26,VOLT,Volt,,14047,0.93,0,0.0,20205.0,1.11,0.0,,-0.18,-16.51,-6158.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2023-02-12,BE,2023-02-12,2021-09-26,BASIS,dieBasis,,8342,0.55,0,0.0,23055.0,1.27,0.0,,-0.72,-56.55,-14713.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BE_2026-09-20,BE,2026-09-20,2023-02-12,LINKE,DIE LINKE,Left / post-socialist,468391,25.66,45,29.41,185119.0,12.2,22.0,,13.45,110.22,283272.0,23.0,True,True,True,False,pending (caretaker),False,0.0,False
+BE_2026-09-20,BE,2026-09-20,2023-02-12,CDU,CDU,Christian democratic / conservative,342746,18.77,33,21.57,428228.0,28.23,52.0,,-9.46,-33.5,-85482.0,-19.0,True,True,True,False,pending (caretaker),True,1.0,False
+BE_2026-09-20,BE,2026-09-20,2023-02-12,AFD,AfD,Radical right,296718,16.25,29,18.95,137871.0,9.09,17.0,,7.16,78.81,158847.0,12.0,True,True,True,False,pending (caretaker),False,0.0,False
+BE_2026-09-20,BE,2026-09-20,2023-02-12,GRUENE,GRÜNE,Green,260896,14.29,25,16.34,278964.0,18.39,34.0,,-4.1,-22.3,-18068.0,-9.0,True,True,True,False,pending (caretaker),False,0.0,False
+BE_2026-09-20,BE,2026-09-20,2023-02-12,SPD,SPD,Social democratic,221116,12.11,21,13.73,279017.0,18.39,34.0,,-6.28,-34.16,-57901.0,-13.0,True,True,True,False,pending (caretaker),True,1.0,False
+BE_2026-09-20,BE,2026-09-20,2023-02-12,BSW,BSW,Left-conservative / populist,86350,4.73,0,0.0,,,,,,,,,False,False,False,False,pending (caretaker),False,0.0,False
+BE_2026-09-20,BE,2026-09-20,2023-02-12,FDP,FDP,Liberal,46384,2.54,0,0.0,70416.0,4.64,0.0,,-2.1,-45.27,-24032.0,0.0,True,False,False,False,pending (caretaker),False,0.0,False
+BE_2026-09-20,BE,2026-09-20,2023-02-12,TIERSCHUTZ,Tierschutzpartei,,38678,2.12,0,0.0,36273.0,2.39,0.0,,-0.27,-11.41,2405.0,0.0,True,False,False,False,pending (caretaker),False,0.0,False
+BE_2026-09-20,BE,2026-09-20,2023-02-12,VOLT,Volt,,37950,2.08,0,0.0,14047.0,0.93,0.0,,1.15,124.47,23903.0,0.0,True,False,False,False,pending (caretaker),False,0.0,False
+BE_2026-09-20,BE,2026-09-20,2023-02-12,PARTEI,Die PARTEI,,13349,0.73,0,0.0,21570.0,1.42,0.0,,-0.69,-48.58,-8221.0,0.0,True,False,False,False,pending (caretaker),False,0.0,False
+BE_2026-09-20,BE,2026-09-20,2023-02-12,OTHER,Sonstige,,13094,0.72,0,0.0,57013.0,3.76,0.0,,-3.04,-80.92,-43919.0,0.0,True,False,False,False,,,,
+BW_1980-03-16,BW,1980-03-16,1976-04-04,CDU,CDU,Christian democratic / conservative,2407798,53.35,68,54.84,,56.7,,back-calculated from reported change vs 1976 (Bundeswahlleiterin/Wikipedia),-3.35,-5.9,,,True,True,,,government,True,1.0,False
+BW_1980-03-16,BW,1980-03-16,1976-04-04,SPD,SPD,Social democratic,1468873,32.55,40,32.26,,33.3,,back-calculated from reported change vs 1976 (Bundeswahlleiterin/Wikipedia),-0.75,-2.26,,,True,True,,,opposition,False,0.0,False
+BW_1980-03-16,BW,1980-03-16,1976-04-04,FDP,FDP/DVP,Liberal,374633,8.3,10,8.06,,7.8,,back-calculated from reported change vs 1976 (Bundeswahlleiterin/Wikipedia),0.5,6.43,,,True,True,,,opposition,False,0.0,False
+BW_1980-03-16,BW,1980-03-16,1976-04-04,GRUENE,GRÜNE,Green,241303,5.35,6,4.84,,,,back-calculated from reported change vs 1976 (Bundeswahlleiterin/Wikipedia),,,,,False,True,,,opposition,False,0.0,False
+BW_1980-03-16,BW,1980-03-16,1976-04-04,OTHER,Sonstige,,20402,0.45,0,0.0,,,,back-calculated from reported change vs 1976 (Bundeswahlleiterin/Wikipedia),,,,,False,False,,,,,,
+BW_1984-03-25,BW,1984-03-25,1980-03-16,CDU,CDU,Christian democratic / conservative,2412085,51.87,68,53.97,2407798.0,53.35,68.0,,-1.48,-2.78,4287.0,0.0,True,True,True,False,government,True,1.0,False
+BW_1984-03-25,BW,1984-03-25,1980-03-16,SPD,SPD,Social democratic,1507088,32.41,41,32.54,1468873.0,32.55,40.0,,-0.14,-0.43,38215.0,1.0,True,True,True,False,opposition,False,0.0,False
+BW_1984-03-25,BW,1984-03-25,1980-03-16,GRUENE,GRÜNE,Green,372374,8.01,9,7.14,241303.0,5.35,6.0,,2.66,49.77,131071.0,3.0,True,True,True,False,opposition,False,0.0,False
+BW_1984-03-25,BW,1984-03-25,1980-03-16,FDP,FDP/DVP,Liberal,333386,7.17,8,6.35,374633.0,8.3,10.0,,-1.13,-13.64,-41247.0,-2.0,True,True,True,False,opposition,False,0.0,False
+BW_1984-03-25,BW,1984-03-25,1980-03-16,OTHER,Sonstige,,25253,0.54,0,0.0,20402.0,0.45,0.0,,0.09,20.13,4851.0,0.0,True,False,False,False,,,,
+BW_1988-03-20,BW,1988-03-20,1984-03-25,CDU,CDU,Christian democratic / conservative,2392626,49.05,66,52.8,2412085.0,51.87,68.0,,-2.82,-5.44,-19459.0,-2.0,True,True,True,False,government,True,1.0,False
+BW_1988-03-20,BW,1988-03-20,1984-03-25,SPD,SPD,Social democratic,1562678,32.03,42,33.6,1507088.0,32.41,41.0,,-0.37,-1.16,55590.0,1.0,True,True,True,False,opposition,False,0.0,False
+BW_1988-03-20,BW,1988-03-20,1984-03-25,GRUENE,GRÜNE,Green,383099,7.85,10,8.0,372374.0,8.01,9.0,,-0.15,-1.93,10725.0,1.0,True,True,True,False,opposition,False,0.0,False
+BW_1988-03-20,BW,1988-03-20,1984-03-25,FDP,FDP/DVP,Liberal,285932,5.86,7,5.6,333386.0,7.17,8.0,,-1.31,-18.24,-47454.0,-1.0,True,True,True,False,opposition,False,0.0,False
+BW_1988-03-20,BW,1988-03-20,1984-03-25,NPD,NPD,Radical right,101889,2.09,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_1988-03-20,BW,1988-03-20,1984-03-25,OEDP,ÖDP,,69823,1.43,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_1988-03-20,BW,1988-03-20,1984-03-25,REP,REP,Radical right,46904,0.96,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_1988-03-20,BW,1988-03-20,1984-03-25,OTHER,Sonstige,,35111,0.72,0,0.0,25253.0,0.54,0.0,,0.18,32.54,9858.0,0.0,True,False,False,False,,,,
+BW_1992-04-05,BW,1992-04-05,1988-03-20,CDU,CDU,Christian democratic / conservative,1960016,39.6,64,43.84,2392626.0,49.05,66.0,,-9.45,-19.26,-432610.0,-2.0,True,True,True,False,government,True,1.0,False
+BW_1992-04-05,BW,1992-04-05,1988-03-20,SPD,SPD,Social democratic,1454477,29.39,46,31.51,1562678.0,32.03,42.0,,-2.65,-8.26,-108201.0,4.0,True,True,True,False,government,True,0.954,False
+BW_1992-04-05,BW,1992-04-05,1988-03-20,REP,REP,Radical right,539014,10.89,15,10.27,46904.0,0.96,0.0,,9.93,1032.67,492110.0,15.0,True,True,False,True,opposition,False,0.0,False
+BW_1992-04-05,BW,1992-04-05,1988-03-20,GRUENE,GRÜNE,Green,467781,9.45,13,8.9,383099.0,7.85,10.0,,1.6,20.35,84682.0,3.0,True,True,True,False,opposition,False,0.0,False
+BW_1992-04-05,BW,1992-04-05,1988-03-20,FDP,FDP/DVP,Liberal,291199,5.88,8,5.48,285932.0,5.86,7.0,,0.02,0.38,5267.0,1.0,True,True,True,False,opposition,False,0.0,False
+BW_1992-04-05,BW,1992-04-05,1988-03-20,OEDP,ÖDP,,93604,1.89,0,0.0,69823.0,1.43,0.0,,0.46,32.13,23781.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_1992-04-05,BW,1992-04-05,1988-03-20,NPD,NPD,Radical right,44416,0.9,0,0.0,101889.0,2.09,0.0,,-1.19,-57.03,-57473.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_1992-04-05,BW,1992-04-05,1988-03-20,GRAUE,DIE GRAUEN,,28719,0.58,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_1992-04-05,BW,1992-04-05,1988-03-20,PBC,PBC,,27272,0.55,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_1992-04-05,BW,1992-04-05,1988-03-20,X_DLVH,DLVH,,23255,0.47,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_1992-04-05,BW,1992-04-05,1988-03-20,OTHER,Sonstige,,19446,0.39,0,0.0,35111.0,0.72,0.0,,-0.33,-45.41,-15665.0,0.0,True,False,False,False,,,,
+BW_1996-03-24,BW,1996-03-24,1992-04-05,CDU,CDU,Christian democratic / conservative,1974619,41.27,69,44.52,1960016.0,39.6,64.0,,1.67,4.22,14603.0,5.0,True,True,True,False,government,True,1.0,False
+BW_1996-03-24,BW,1996-03-24,1992-04-05,SPD,SPD,Social democratic,1199123,25.06,39,25.16,1454477.0,29.39,46.0,,-4.32,-14.71,-255354.0,-7.0,True,True,True,False,opposition,True,0.044,False
+BW_1996-03-24,BW,1996-03-24,1992-04-05,GRUENE,GRÜNE,Green,580801,12.14,19,12.26,467781.0,9.45,13.0,,2.69,28.44,113020.0,6.0,True,True,True,False,opposition,False,0.0,False
+BW_1996-03-24,BW,1996-03-24,1992-04-05,FDP,FDP/DVP,Liberal,458478,9.58,14,9.03,291199.0,5.88,8.0,,3.7,62.88,167279.0,6.0,True,True,True,False,government,True,0.956,False
+BW_1996-03-24,BW,1996-03-24,1992-04-05,REP,REP,Radical right,437228,9.14,14,9.03,539014.0,10.89,15.0,,-1.75,-16.08,-101786.0,-1.0,True,True,True,False,opposition,False,0.0,False
+BW_1996-03-24,BW,1996-03-24,1992-04-05,OEDP,ÖDP,,69775,1.46,0,0.0,93604.0,1.89,0.0,,-0.43,-22.89,-23829.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_1996-03-24,BW,1996-03-24,1992-04-05,OTHER,Sonstige,,40855,0.85,0,0.0,19446.0,0.39,0.0,,0.46,117.34,21409.0,0.0,True,False,False,False,,,,
+BW_1996-03-24,BW,1996-03-24,1992-04-05,PBC,PBC,,23250,0.49,0,0.0,27272.0,0.55,0.0,,-0.07,-11.81,-4022.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_2001-03-25,BW,2001-03-25,1996-03-24,CDU,CDU,Christian democratic / conservative,2029806,44.8,63,49.22,1974619.0,41.27,69.0,,3.53,8.54,55187.0,-6.0,True,True,True,False,government,True,1.0,False
+BW_2001-03-25,BW,2001-03-25,1996-03-24,SPD,SPD,Social democratic,1508358,33.29,45,35.16,1199123.0,25.06,39.0,,8.23,32.82,309235.0,6.0,True,True,True,False,opposition,False,0.0,False
+BW_2001-03-25,BW,2001-03-25,1996-03-24,FDP,FDP/DVP,Liberal,367580,8.11,10,7.81,458478.0,9.58,14.0,,-1.47,-15.34,-90898.0,-4.0,True,True,True,False,government,True,1.0,False
+BW_2001-03-25,BW,2001-03-25,1996-03-24,GRUENE,GRÜNE,Green,350383,7.73,10,7.81,580801.0,12.14,19.0,,-4.41,-36.3,-230418.0,-9.0,True,True,True,False,opposition,False,0.0,False
+BW_2001-03-25,BW,2001-03-25,1996-03-24,REP,REP,Radical right,198534,4.38,0,0.0,437228.0,9.14,14.0,,-4.76,-52.05,-238694.0,-14.0,True,False,True,False,extra-parliamentary,False,0.0,False
+BW_2001-03-25,BW,2001-03-25,1996-03-24,OEDP,ÖDP,,32451,0.72,0,0.0,69775.0,1.46,0.0,,-0.74,-50.89,-37324.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_2001-03-25,BW,2001-03-25,1996-03-24,OTHER,Sonstige,,23123,0.51,0,0.0,40855.0,0.85,0.0,,-0.34,-40.24,-17732.0,0.0,True,False,False,False,,,,
+BW_2001-03-25,BW,2001-03-25,1996-03-24,PBC,PBC,,20528,0.45,0,0.0,23250.0,0.49,0.0,,-0.03,-6.77,-2722.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_2006-03-26,BW,2006-03-26,2001-03-25,CDU,CDU,Christian democratic / conservative,1748766,44.15,69,49.64,2029806.0,44.8,63.0,,-0.65,-1.44,-281040.0,6.0,True,True,True,False,government,True,1.0,False
+BW_2006-03-26,BW,2006-03-26,2001-03-25,SPD,SPD,Social democratic,996207,25.15,38,27.34,1508358.0,33.29,45.0,,-8.14,-24.45,-512151.0,-7.0,True,True,True,False,opposition,False,0.0,False
+BW_2006-03-26,BW,2006-03-26,2001-03-25,GRUENE,GRÜNE,Green,462889,11.69,17,12.23,350383.0,7.73,10.0,,3.95,51.13,112506.0,7.0,True,True,True,False,opposition,False,0.0,False
+BW_2006-03-26,BW,2006-03-26,2001-03-25,FDP,FDP/DVP,Liberal,421994,10.65,15,10.79,367580.0,8.11,10.0,,2.54,31.33,54414.0,5.0,True,True,True,False,government,True,1.0,False
+BW_2006-03-26,BW,2006-03-26,2001-03-25,WASG,WASG,Left,121753,3.07,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_2006-03-26,BW,2006-03-26,2001-03-25,REP,REP,Radical right,100081,2.53,0,0.0,198534.0,4.38,0.0,,-1.86,-42.33,-98453.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_2006-03-26,BW,2006-03-26,2001-03-25,OTHER,Sonstige,,31186,0.79,0,0.0,23123.0,0.51,0.0,,0.28,54.29,8063.0,0.0,True,False,False,False,,,,
+BW_2006-03-26,BW,2006-03-26,2001-03-25,NPD,NPD,Radical right,29219,0.74,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_2006-03-26,BW,2006-03-26,2001-03-25,PBC,PBC,,26759,0.68,0,0.0,20528.0,0.45,0.0,,0.22,49.12,6231.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_2006-03-26,BW,2006-03-26,2001-03-25,OEDP,ÖDP,,21761,0.55,0,0.0,32451.0,0.72,0.0,,-0.17,-23.29,-10690.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_2011-03-27,BW,2011-03-27,2006-03-26,CDU,CDU,Christian democratic / conservative,1943912,39.01,60,43.48,1748766.0,44.15,69.0,,-5.15,-11.66,195146.0,-9.0,True,True,True,False,opposition,True,0.025,False
+BW_2011-03-27,BW,2011-03-27,2006-03-26,GRUENE,GRÜNE,Green,1206182,24.2,36,26.09,462889.0,11.69,17.0,,12.52,107.08,743293.0,19.0,True,True,True,False,government,True,0.975,False
+BW_2011-03-27,BW,2011-03-27,2006-03-26,SPD,SPD,Social democratic,1152594,23.13,35,25.36,996207.0,25.15,38.0,,-2.03,-8.05,156387.0,-3.0,True,True,True,False,government,True,0.975,False
+BW_2011-03-27,BW,2011-03-27,2006-03-26,FDP,FDP/DVP,Liberal,262784,5.27,7,5.07,421994.0,10.65,15.0,,-5.38,-50.51,-159210.0,-8.0,True,True,True,False,opposition,True,0.025,False
+BW_2011-03-27,BW,2011-03-27,2006-03-26,LINKE,DIE LINKE,Left / post-socialist,139700,2.8,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_2011-03-27,BW,2011-03-27,2006-03-26,PIRATEN,PIRATEN,Pirate / digital,103618,2.08,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_2011-03-27,BW,2011-03-27,2006-03-26,REP,REP,Radical right,56723,1.14,0,0.0,100081.0,2.53,0.0,,-1.39,-54.96,-43358.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_2011-03-27,BW,2011-03-27,2006-03-26,NPD,NPD,Radical right,48227,0.97,0,0.0,29219.0,0.74,0.0,,0.23,31.17,19008.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_2011-03-27,BW,2011-03-27,2006-03-26,OEDP,ÖDP,,42539,0.85,0,0.0,21761.0,0.55,0.0,,0.3,55.35,20778.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_2011-03-27,BW,2011-03-27,2006-03-26,OTHER,Sonstige,,27440,0.55,0,0.0,31186.0,0.79,0.0,,-0.24,-30.07,-3746.0,0.0,True,False,False,False,,,,
+BW_2016-03-13,BW,2016-03-13,2011-03-27,GRUENE,GRÜNE,Green,1623107,30.27,47,32.87,1206182.0,24.2,36.0,,6.07,25.09,416925.0,11.0,True,True,True,False,government,True,1.0,False
+BW_2016-03-13,BW,2016-03-13,2011-03-27,CDU,CDU,Christian democratic / conservative,1447462,27.0,42,29.37,1943912.0,39.01,60.0,,-12.01,-30.78,-496450.0,-18.0,True,True,True,False,government,True,0.967,False
+BW_2016-03-13,BW,2016-03-13,2011-03-27,AFD,AfD,Radical right,809564,15.1,23,16.08,,,,,,,,,False,True,False,True,opposition,False,0.0,False
+BW_2016-03-13,BW,2016-03-13,2011-03-27,SPD,SPD,Social democratic,679727,12.68,19,13.29,1152594.0,23.13,35.0,,-10.45,-45.18,-472867.0,-16.0,True,True,True,False,opposition,True,0.033,False
+BW_2016-03-13,BW,2016-03-13,2011-03-27,FDP,FDP/DVP,Liberal,445498,8.31,12,8.39,262784.0,5.27,7.0,,3.04,57.59,182714.0,5.0,True,True,True,False,opposition,False,0.0,False
+BW_2016-03-13,BW,2016-03-13,2011-03-27,LINKE,DIE LINKE,Left / post-socialist,156240,2.91,0,0.0,139700.0,2.8,0.0,,0.11,3.96,16540.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_2016-03-13,BW,2016-03-13,2011-03-27,OTHER,Sonstige,,106422,1.99,0,0.0,27440.0,0.55,0.0,,1.43,260.52,78982.0,0.0,True,False,False,False,,,,
+BW_2016-03-13,BW,2016-03-13,2011-03-27,X_ALFA,ALFA,,54713,1.02,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_2016-03-13,BW,2016-03-13,2011-03-27,OEDP,ÖDP,,38517,0.72,0,0.0,42539.0,0.85,0.0,,-0.14,-15.83,-4022.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_2021-03-14,BW,2021-03-14,2016-03-13,GRUENE,GRÜNE,Green,1586192,32.64,58,37.66,1623107.0,30.27,47.0,,2.37,7.81,-36915.0,11.0,True,True,True,False,government,True,1.0,False
+BW_2021-03-14,BW,2021-03-14,2016-03-13,CDU,CDU,Christian democratic / conservative,1168975,24.05,42,27.27,1447462.0,27.0,42.0,,-2.94,-10.9,-278487.0,0.0,True,True,True,False,government,True,1.0,False
+BW_2021-03-14,BW,2021-03-14,2016-03-13,SPD,SPD,Social democratic,535489,11.02,19,12.34,679727.0,12.68,19.0,,-1.66,-13.09,-144238.0,0.0,True,True,True,False,opposition,False,0.0,False
+BW_2021-03-14,BW,2021-03-14,2016-03-13,FDP,FDP/DVP,Liberal,508429,10.46,18,11.69,445498.0,8.31,12.0,,2.15,25.91,62931.0,6.0,True,True,True,False,opposition,False,0.0,False
+BW_2021-03-14,BW,2021-03-14,2016-03-13,AFD,AfD,Radical right,473485,9.74,17,11.04,809564.0,15.1,23.0,,-5.36,-35.48,-336079.0,-6.0,True,True,True,False,opposition,False,0.0,False
+BW_2021-03-14,BW,2021-03-14,2016-03-13,LINKE,DIE LINKE,Left / post-socialist,173317,3.57,0,0.0,156240.0,2.91,0.0,,0.65,22.38,17077.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_2021-03-14,BW,2021-03-14,2016-03-13,FW,FREIE WÄHLER,Free voters / regionalist,146259,3.01,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_2021-03-14,BW,2021-03-14,2016-03-13,PARTEI,Die PARTEI,,59463,1.22,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_2021-03-14,BW,2021-03-14,2016-03-13,BASIS,dieBasis,,48497,1.0,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_2021-03-14,BW,2021-03-14,2016-03-13,X_KLIMALISTEBW,KlimalisteBW,,42685,0.88,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_2021-03-14,BW,2021-03-14,2016-03-13,X_W2020,W2020,,41128,0.85,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_2021-03-14,BW,2021-03-14,2016-03-13,OEDP,ÖDP,,37819,0.78,0,0.0,38517.0,0.72,0.0,,0.06,8.32,-698.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_2021-03-14,BW,2021-03-14,2016-03-13,VOLT,Volt,,22782,0.47,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_2021-03-14,BW,2021-03-14,2016-03-13,OTHER,Sonstige,,15131,0.31,0,0.0,106422.0,1.99,0.0,,-1.67,-84.31,-91291.0,0.0,True,False,False,False,,,,
+BW_2026-03-08,BW,2026-03-08,2021-03-14,GRUENE,GRÜNE,Green,1623208,30.2,56,35.67,1586192.0,32.64,58.0,,-2.44,-7.48,37016.0,-2.0,True,True,True,False,government,True,1.0,False
+BW_2026-03-08,BW,2026-03-08,2021-03-14,CDU,CDU,Christian democratic / conservative,1595929,29.69,56,35.67,1168975.0,24.05,42.0,,5.64,23.43,426954.0,14.0,True,True,True,False,government,True,1.0,False
+BW_2026-03-08,BW,2026-03-08,2021-03-14,AFD,AfD,Radical right,1010574,18.8,35,22.29,473485.0,9.74,17.0,,9.06,92.97,537089.0,18.0,True,True,True,False,opposition,False,0.0,False
+BW_2026-03-08,BW,2026-03-08,2021-03-14,SPD,SPD,Social democratic,298297,5.55,10,6.37,535489.0,11.02,19.0,,-5.47,-49.64,-237192.0,-9.0,True,True,True,False,opposition,False,0.0,False
+BW_2026-03-08,BW,2026-03-08,2021-03-14,LINKE,DIE LINKE,Left / post-socialist,236975,4.41,0,0.0,173317.0,3.57,0.0,,0.84,23.62,63658.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_2026-03-08,BW,2026-03-08,2021-03-14,FDP,FDP/DVP,Liberal,235598,4.38,0,0.0,508429.0,10.46,18.0,,-6.08,-58.11,-272831.0,-18.0,True,False,True,False,extra-parliamentary,False,0.0,False
+BW_2026-03-08,BW,2026-03-08,2021-03-14,FW,FREIE WÄHLER,Free voters / regionalist,102716,1.91,0,0.0,146259.0,3.01,0.0,,-1.1,-36.51,-43543.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False
+BW_2026-03-08,BW,2026-03-08,2021-03-14,OTHER,Sonstige,,99704,1.85,0,0.0,15131.0,0.31,0.0,,1.54,495.75,84573.0,0.0,True,False,False,False,,,,
+BW_2026-03-08,BW,2026-03-08,2021-03-14,BSW,BSW,Left-conservative / populist,76439,1.42,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_2026-03-08,BW,2026-03-08,2021-03-14,TIERSCHUTZ,Tierschutzpartei,,49827,0.93,0,0.0,,,,,,,,,False,False,False,False,extra-parliamentary,False,0.0,False
+BW_2026-03-08,BW,2026-03-08,2021-03-14,VOLT,Volt,,45842,0.85,0,0.0,22782.0,0.47,0.0,,0.38,81.92,23060.0,0.0,True,False,False,False,extra-parliamentary,False,0.0,False

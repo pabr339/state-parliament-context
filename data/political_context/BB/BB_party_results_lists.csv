@@ -1,0 +1,81 @@
+election_id,state,election_date,party_label,party,votes,vote_pct,vote_pct_reported,seats,seat_pct,change_pp,change_rel_pct,change_seats,role_initial,in_gov_any_time,gov_share_of_cycle,source
+BB_1990-10-14,BB,1990-10-14,SPD,SPD,487134,38.24,38.2,36,40.91,,,,government,True,0.987,https://en.wikipedia.org/wiki/1990_Brandenburg_state_election
+BB_1990-10-14,BB,1990-10-14,CDU,CDU,374572,29.4,29.4,27,30.68,,,,opposition,False,0.0,https://en.wikipedia.org/wiki/1990_Brandenburg_state_election
+BB_1990-10-14,BB,1990-10-14,PDS (LL/PDS),LINKE,170804,13.41,13.4,13,14.77,,,,opposition,False,0.0,https://en.wikipedia.org/wiki/1990_Brandenburg_state_election
+BB_1990-10-14,BB,1990-10-14,FDP,FDP,84501,6.63,6.6,6,6.82,,,,government,True,0.987,https://en.wikipedia.org/wiki/1990_Brandenburg_state_election
+BB_1990-10-14,BB,1990-10-14,Bündnis 90,GRUENE,81725,6.42,6.4,6,6.82,,,,government,True,0.852,https://en.wikipedia.org/wiki/1990_Brandenburg_state_election
+BB_1990-10-14,BB,1990-10-14,Grüne,GRUENE,36238,2.84,2.8,0,0.0,,,,government,True,0.852,https://en.wikipedia.org/wiki/1990_Brandenburg_state_election
+BB_1990-10-14,BB,1990-10-14,Sonstige,OTHER,24301,1.91,1.9,0,0.0,,,,,,,https://en.wikipedia.org/wiki/1990_Brandenburg_state_election
+BB_1990-10-14,BB,1990-10-14,REP,REP,14631,1.15,1.1,0,0.0,,,,extra-parliamentary,False,0.0,https://en.wikipedia.org/wiki/1990_Brandenburg_state_election
+BB_1994-09-11,BB,1994-09-11,SPD,SPD,580422,54.14,54.1,52,59.09,15.9,41.59,16.0,government,True,1.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1994-09-11,BB,1994-09-11,CDU,CDU,200700,18.72,18.7,18,20.45,-10.68,-36.33,-9.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1994-09-11,BB,1994-09-11,PDS,LINKE,200628,18.71,18.7,18,20.45,5.31,39.58,5.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1994-09-11,BB,1994-09-11,GRÜNE/B 90,GRUENE,31033,2.89,2.9,0,0.0,-6.37,-68.74,-6.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1994-09-11,BB,1994-09-11,Sonstige (incl. REP),OTHER,25290,2.36,2.4,0,0.0,0.45,23.67,0.0,,,,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1994-09-11,BB,1994-09-11,FDP,FDP,23541,2.2,2.2,0,0.0,-4.44,-66.89,-6.0,extra-parliamentary,True,0.016,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1994-09-11,BB,1994-09-11,Bürger,X_BÜRGER,10405,0.97,1.0,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,SPD,SPD,433521,39.33,39.3,37,41.57,-14.82,-27.37,-15.0,government,True,1.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,CDU,CDU,292634,26.55,26.5,25,28.09,7.82,41.79,7.0,government,True,0.979,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,PDS,LINKE,257309,23.34,23.3,22,24.72,4.63,24.72,4.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,DVU,DVU,58247,5.28,5.3,5,5.62,,,,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,GRÜNE/B 90,GRUENE,21410,1.94,1.9,0,0.0,-0.95,-32.91,0.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,FDP,FDP,20472,1.86,1.9,0,0.0,-0.34,-15.43,0.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,NPD,NPD,8137,0.74,0.7,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,BFWG,X_BFWG,7008,0.64,0.6,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,Sonstige,OTHER,3622,0.33,0.3,0,0.0,-2.03,-86.07,0.0,,,,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_2004-09-19,BB,2004-09-19,SPD,SPD,372942,31.91,31.9,33,37.5,-7.42,-18.87,-4.0,government,True,1.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,PDS,LINKE,326801,27.96,28.0,29,32.95,4.62,19.78,7.0,opposition,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,CDU,CDU,227062,19.43,19.4,20,22.73,-7.12,-26.83,-5.0,government,True,1.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,DVU,DVU,71041,6.08,6.1,6,6.82,0.79,15.02,1.0,opposition,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,GRÜNE/B 90,GRUENE,42091,3.6,3.6,0,0.0,1.66,85.4,0.0,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,FDP,FDP,38890,3.33,3.3,0,0.0,1.47,79.15,0.0,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,FAMILIE,X_FAMILIE,30843,2.64,2.6,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,50Plus,50PLUS,11875,1.02,1.0,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,AfW,X_AFW,11006,0.94,0.9,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,GRAUE,GRAUE,10470,0.9,0.9,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,AUB-Brandenburg,X_AUB-BRANDENBURG,9993,0.85,0.9,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,Sonstige,OTHER,9905,0.85,0.8,0,0.0,0.52,157.9,0.0,,,,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,BRB,X_BRB,5990,0.51,0.5,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2009-09-27,BB,2009-09-27,SPD,SPD,458840,33.04,33.0,31,35.23,1.14,3.56,-2.0,government,True,1.0,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,DIE LINKE,LINKE,377112,27.16,27.2,26,29.55,-0.8,-2.87,-3.0,government,True,0.978,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,CDU,CDU,274825,19.79,19.8,19,21.59,0.36,1.88,-1.0,opposition,True,0.022,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,FDP,FDP,100123,7.21,7.2,7,7.95,3.88,116.7,7.0,opposition,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,GRÜNE/B 90,GRUENE,78550,5.66,5.7,5,5.68,2.06,57.08,5.0,opposition,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,NPD,NPD,35544,2.56,2.6,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,FREIE WÄHLER,FW,23296,1.68,1.7,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,DVU,DVU,15903,1.15,1.1,0,0.0,-4.93,-81.16,-6.0,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,Sonstige,OTHER,9728,0.7,0.7,0,0.0,-0.15,-17.33,0.0,,,,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,50Plus,50PLUS,7905,0.57,0.6,0,0.0,-0.45,-43.97,0.0,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,RRP,X_RRP,6896,0.5,0.5,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2014-09-14,BB,2014-09-14,SPD,SPD,315202,31.92,31.9,30,34.09,-1.12,-3.38,-1.0,government,True,1.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,CDU,CDU,226835,22.97,23.0,21,23.86,3.19,16.09,2.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,DIE LINKE,LINKE,183178,18.55,18.6,17,19.32,-8.6,-31.68,-9.0,government,True,1.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,AfD,AFD,120077,12.16,12.2,11,12.5,,,,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,GRÜNE/B 90,GRUENE,60767,6.15,6.2,6,6.82,0.5,8.81,1.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,BVB / FREIE WÄHLER,FW,26317,2.67,2.7,3,3.41,0.99,58.9,3.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,NPD,NPD,21605,2.19,2.2,0,0.0,-0.37,-14.5,0.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,PIRATEN,PIRATEN,14595,1.48,1.5,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,FDP,FDP,14376,1.46,1.5,0,0.0,-5.75,-79.8,-7.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,Sonstige,OTHER,4369,0.44,0.4,0,0.0,-0.26,-36.83,0.0,,,,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2019-09-01,BB,2019-09-01,SPD,SPD,331238,26.18,26.2,25,28.41,-5.74,-17.99,-5.0,government,True,1.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,AfD,AFD,297484,23.51,23.5,23,26.14,11.35,93.35,12.0,opposition,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,CDU,CDU,196988,15.57,15.6,15,17.05,-7.4,-32.23,-6.0,government,True,0.957,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,GRÜNE/B 90,GRUENE,136364,10.78,10.8,10,11.36,4.62,75.13,4.0,government,True,0.957,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,DIE LINKE,LINKE,135558,10.72,10.7,10,11.36,-7.84,-42.25,-7.0,opposition,True,0.043,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,BVB / FREIE WÄHLER,FW,63851,5.05,5.0,5,5.68,2.38,89.35,2.0,opposition,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,FDP,FDP,51660,4.08,4.1,0,0.0,2.63,180.45,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,Tierschutzpartei,TIERSCHUTZ,32959,2.61,2.6,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,PIRATEN,PIRATEN,8712,0.69,0.7,0,0.0,-0.79,-53.42,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,ÖDP,OEDP,7237,0.57,0.6,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,Sonstige,OTHER,3055,0.24,0.2,0,0.0,-0.2,-45.43,0.0,,,,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2024-09-22,BB,2024-09-22,SPD,SPD,463800,30.89,30.9,32,36.36,4.7,17.97,7.0,government,True,1.0,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,AfD,AFD,438904,29.23,29.2,30,34.09,5.71,24.3,7.0,opposition,False,0.0,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,BSW,BSW,202421,13.48,13.5,14,15.91,,,,government,True,0.52,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,CDU,CDU,181716,12.1,12.1,12,13.64,-3.47,-22.28,-3.0,opposition,True,0.386,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,GRÜNE/B 90,GRUENE,62057,4.13,4.1,0,0.0,-6.65,-61.66,-10.0,extra-parliamentary,True,0.106,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,DIE LINKE,LINKE,44706,2.98,3.0,0,0.0,-7.74,-72.22,-10.0,extra-parliamentary,False,0.0,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,BVB / FREIE WÄHLER,FW,38573,2.57,2.6,0,0.0,-2.48,-49.1,-5.0,extra-parliamentary,False,0.0,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,Tierschutzpartei,TIERSCHUTZ,30041,2.0,2.0,0,0.0,-0.6,-23.21,0.0,extra-parliamentary,False,0.0,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,Plus,X_PLUS,13584,0.9,0.9,0,0.0,,,,extra-parliamentary,False,0.0,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,Sonstige,OTHER,13342,0.89,0.9,0,0.0,0.65,267.94,0.0,,,,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,FDP,FDP,12475,0.83,0.8,0,0.0,-3.25,-79.66,0.0,extra-parliamentary,False,0.0,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf

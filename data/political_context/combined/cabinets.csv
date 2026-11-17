@@ -1,0 +1,43 @@
+state,cabinet,head,head_party,coalition,start,end,note,source
+BE,Senat Vogel,Hans-Jochen Vogel,SPD,"SPD, FDP",1981-01-23,1981-06-11,,https://en.wikipedia.org/wiki/List_of_mayors_of_Berlin
+BE,Senat Weizsäcker,Richard von Weizsäcker,CDU,"CDU (minority), from 1983-03-17 CDU, FDP",1981-06-11,1984-02-09,tolerated by several FDP MdA until 1983,https://www.berlin.de/rbmskzl/politik/senat/buergermeistergalerie/artikel.4633.php
+BE,Senat Diepgen I,Eberhard Diepgen,CDU,"CDU, FDP",1984-02-09,1985-04-18,,https://www.kas.de/web/geschichte-der-cdu/personen/biogramm-detail/-/content/eberhard-diepgen
+BE,Senat Diepgen II,Eberhard Diepgen,CDU,"CDU, FDP",1985-04-18,1989-03-16,start = date of archived photo of newly elected Senate,https://www.archivportal-d.de/item/P65TF4GXQJLDLKBJA6GCGYKI2ZHMRCLE
+BE,Senat Momper,Walter Momper,SPD,"SPD, AL (AL left 1990-11-15/19)",1989-03-16,1991-01-24,,https://de.wikipedia.org/wiki/Senat_Momper
+BE,Magistrat Schwierzina (East Berlin),Tino Schwierzina,SPD,NA,1990-05-30,1991-01-24,East Berlin city government after 1990-05-06 election, not part of Abgeordnetenhaus system;https://de.wikipedia.org/wiki/Magistrat_Schwierzina
+BE,Senat Diepgen III,Eberhard Diepgen,CDU,"CDU, SPD",1991-01-24,NA (early 1996),,https://de.wikipedia.org/wiki/Senat_Diepgen_III
+BE,Senat Diepgen IV,Eberhard Diepgen,CDU,"CDU, SPD",NA (early 1996),NA (Dec 1999),,https://de.wikipedia.org/wiki/Senat_Diepgen_IV
+BE,Senat Diepgen V,Eberhard Diepgen,CDU,"CDU, SPD","NA (Dec 1999, bpb lists Senate election scheduled for 1999-12-09)",2001-06-16,ended by constructive vote removing Diepgen,https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/132662/7-dezember-1999/
+BE,Senat Wowereit I,Klaus Wowereit,SPD,"SPD, GRÜNE (minority, tolerated by PDS)",2001-06-16,2002-01-17,,https://de.wikipedia.org/wiki/Senat_Wowereit_I
+BE,Senat Wowereit II,Klaus Wowereit,SPD,"SPD, PDS",2002-01-17,2006-11-23,,https://de.wikipedia.org/wiki/Senat_Wowereit_II
+BE,Senat Wowereit III,Klaus Wowereit,SPD,"SPD, Die Linke.PDS / DIE LINKE",2006-11-23,2011-11-24,,https://de.wikipedia.org/wiki/Senat_Wowereit_III
+BE,Senat Wowereit IV,Klaus Wowereit,SPD,"SPD, CDU",2011-11-24,2014-12-11,,https://de.wikipedia.org/wiki/Senat_Wowereit_IV
+BE,Senat Müller I,Michael Müller,SPD,"SPD, CDU",2014-12-11,2016-12-08,,https://de.wikipedia.org/wiki/Senat_Müller_I
+BE,Senat Müller II,Michael Müller,SPD,"SPD, DIE LINKE, GRÜNE",2016-12-08,2021-12-21,,https://de.wikipedia.org/wiki/Senat_Müller_II
+BE,Senat Giffey,Franziska Giffey,SPD,"SPD, GRÜNE, DIE LINKE",2021-12-21,2023-04-27,,https://de.wikipedia.org/wiki/Senat_Giffey
+BE,Senat Wegner,Kai Wegner,CDU,"CDU, SPD",2023-04-27,NA (in office / caretaker after 2026-09-20),,https://de.wikipedia.org/wiki/Senat_Wegner
+BB,Kabinett Stolpe I,Manfred Stolpe,SPD,"SPD, FDP, Bündnis 90 (B90 left March 1994)",1990-11-01,1994-10-11,,https://de.wikipedia.org/wiki/Kabinett_Stolpe_I
+BB,Kabinett Stolpe II,Manfred Stolpe,SPD,SPD,1994-10-11,1999-10-13,,https://de.wikipedia.org/wiki/Kabinett_Stolpe_II
+BB,Kabinett Stolpe III,Manfred Stolpe,SPD,"SPD, CDU",1999-10-13,2002-06-26,,https://de.wikipedia.org/wiki/Kabinett_Stolpe_III
+BB,Kabinett Platzeck I,Matthias Platzeck,SPD,"SPD, CDU",2002-06-26,2004-10-13,,https://de.wikipedia.org/wiki/Kabinett_Platzeck_I
+BB,Kabinett Platzeck II,Matthias Platzeck,SPD,"SPD, CDU",2004-10-13,2009-11-06,,https://de.wikipedia.org/wiki/Kabinett_Platzeck_II
+BB,Kabinett Platzeck III,Matthias Platzeck,SPD,"SPD, DIE LINKE",2009-11-06,2013-08-28,,https://de.wikipedia.org/wiki/Kabinett_Platzeck_III
+BB,Kabinett Woidke I,Dietmar Woidke,SPD,"SPD, DIE LINKE",2013-08-28,2014-11-05,,https://de.wikipedia.org/wiki/Kabinett_Woidke_I
+BB,Kabinett Woidke II,Dietmar Woidke,SPD,"SPD, DIE LINKE",2014-11-05,2019-11-20,,https://de.wikipedia.org/wiki/Kabinett_Woidke_II
+BB,Kabinett Woidke III,Dietmar Woidke,SPD,"SPD, CDU, GRÜNE",2019-11-20,2024-12-11,,https://de.wikipedia.org/wiki/Kabinett_Woidke_III
+BB,Kabinett Woidke IV,Dietmar Woidke,SPD,"SPD, BSW (coalition ended 2026-01-06", then SPD minority),2024-12-11,2026-03-18,;https://de.wikipedia.org/wiki/Kabinett_Woidke_IV
+BB,"Kabinett Woidke (SPD-CDU, 2026)",Dietmar Woidke,SPD,"SPD, CDU",2026-03-18,NA (in office),name not established in sources found,https://www.zdfheute.de/politik/deutschland/brandenburg-spd-cdu-koalition-minister-vereidigung-100.html
+BW,Kabinett Späth II,Lothar Späth,CDU,CDU,NA (1980),NA (1984),re-election dates not found,https://www.baden-wuerttemberg.de/de/regierung/ministerpraesident/ministerpraesidenten-seit-1952
+BW,Kabinett Späth III,Lothar Späth,CDU,CDU,NA (1984),NA (1988),re-election dates not found,https://www.baden-wuerttemberg.de/de/regierung/ministerpraesident/ministerpraesidenten-seit-1952
+BW,Kabinett Späth IV,Lothar Späth,CDU,CDU,NA (1988),1991-01-13,Späth resigned (Traumschiff affair),https://de.wikipedia.org/wiki/Lothar_Späth
+BW,Kabinett Teufel I,Erwin Teufel,CDU,CDU,1991-01-22,1992-06-11,,https://de.wikipedia.org/wiki/Erwin_Teufel
+BW,Kabinett Teufel II,Erwin Teufel,CDU,"CDU, SPD",1992-06-11,1996-06-12,,https://kas.de/documents/252038/253252/cv_teufel.pdf
+BW,Kabinett Teufel III,Erwin Teufel,CDU,"CDU, FDP/DVP",1996-06-12,2001-06-13,,https://kas.de/documents/252038/253252/cv_teufel.pdf
+BW,Kabinett Teufel IV,Erwin Teufel,CDU,"CDU, FDP/DVP",2001-06-13,2005-04-19,resigned effective 2005-04-19,https://de.wikipedia.org/wiki/Erwin_Teufel
+BW,Kabinett Oettinger I,Günther Oettinger,CDU,"CDU, FDP/DVP",2005-04-21,2006-06-14,,https://de.wikipedia.org/wiki/Günther_Oettinger
+BW,Kabinett Oettinger II,Günther Oettinger,CDU,"CDU, FDP/DVP",2006-06-14,2010-02-10,left for EU Commission,https://de.wikipedia.org/wiki/Günther_Oettinger
+BW,Kabinett Mappus,Stefan Mappus,CDU,"CDU, FDP/DVP",2010-02-10,2011-05-12,,https://de.wikipedia.org/wiki/Stefan_Mappus
+BW,Kabinett Kretschmann I,Winfried Kretschmann,GRÜNE,"GRÜNE, SPD",2011-05-12,2016-05-12,,https://de.wikipedia.org/wiki/Winfried_Kretschmann
+BW,Kabinett Kretschmann II,Winfried Kretschmann,GRÜNE,"GRÜNE, CDU",2016-05-12,2021-05-12,,https://de.wikipedia.org/wiki/Winfried_Kretschmann
+BW,Kabinett Kretschmann III,Winfried Kretschmann,GRÜNE,"GRÜNE, CDU",2021-05-12,2026-05-13,,https://de.wikipedia.org/wiki/Winfried_Kretschmann
+BW,Kabinett Özdemir,Cem Özdemir,GRÜNE,"GRÜNE, CDU",2026-05-13,NA (in office),,https://en.wikipedia.org/wiki/%C3%96zdemir_cabinet

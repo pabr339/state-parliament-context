@@ -1,0 +1,18 @@
+state,cabinet,head,head_party,coalition,start,end,note,source
+BE,Senat Vogel,Hans-Jochen Vogel,SPD,"SPD, FDP",1981-01-23,1981-06-11,,https://en.wikipedia.org/wiki/List_of_mayors_of_Berlin
+BE,Senat Weizsäcker,Richard von Weizsäcker,CDU,"CDU (minority), from 1983-03-17 CDU, FDP",1981-06-11,1984-02-09,tolerated by several FDP MdA until 1983,https://www.berlin.de/rbmskzl/politik/senat/buergermeistergalerie/artikel.4633.php
+BE,Senat Diepgen I,Eberhard Diepgen,CDU,"CDU, FDP",1984-02-09,1985-04-18,,https://www.kas.de/web/geschichte-der-cdu/personen/biogramm-detail/-/content/eberhard-diepgen
+BE,Senat Diepgen II,Eberhard Diepgen,CDU,"CDU, FDP",1985-04-18,1989-03-16,start = date of archived photo of newly elected Senate,https://www.archivportal-d.de/item/P65TF4GXQJLDLKBJA6GCGYKI2ZHMRCLE
+BE,Senat Momper,Walter Momper,SPD,"SPD, AL (AL left 1990-11-15/19)",1989-03-16,1991-01-24,,https://de.wikipedia.org/wiki/Senat_Momper
+BE,Magistrat Schwierzina (East Berlin),Tino Schwierzina,SPD,NA,1990-05-30,1991-01-24,East Berlin city government after 1990-05-06 election, not part of Abgeordnetenhaus system;https://de.wikipedia.org/wiki/Magistrat_Schwierzina
+BE,Senat Diepgen III,Eberhard Diepgen,CDU,"CDU, SPD",1991-01-24,NA (early 1996),,https://de.wikipedia.org/wiki/Senat_Diepgen_III
+BE,Senat Diepgen IV,Eberhard Diepgen,CDU,"CDU, SPD",NA (early 1996),NA (Dec 1999),,https://de.wikipedia.org/wiki/Senat_Diepgen_IV
+BE,Senat Diepgen V,Eberhard Diepgen,CDU,"CDU, SPD","NA (Dec 1999, bpb lists Senate election scheduled for 1999-12-09)",2001-06-16,ended by constructive vote removing Diepgen,https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/132662/7-dezember-1999/
+BE,Senat Wowereit I,Klaus Wowereit,SPD,"SPD, GRÜNE (minority, tolerated by PDS)",2001-06-16,2002-01-17,,https://de.wikipedia.org/wiki/Senat_Wowereit_I
+BE,Senat Wowereit II,Klaus Wowereit,SPD,"SPD, PDS",2002-01-17,2006-11-23,,https://de.wikipedia.org/wiki/Senat_Wowereit_II
+BE,Senat Wowereit III,Klaus Wowereit,SPD,"SPD, Die Linke.PDS / DIE LINKE",2006-11-23,2011-11-24,,https://de.wikipedia.org/wiki/Senat_Wowereit_III
+BE,Senat Wowereit IV,Klaus Wowereit,SPD,"SPD, CDU",2011-11-24,2014-12-11,,https://de.wikipedia.org/wiki/Senat_Wowereit_IV
+BE,Senat Müller I,Michael Müller,SPD,"SPD, CDU",2014-12-11,2016-12-08,,https://de.wikipedia.org/wiki/Senat_Müller_I
+BE,Senat Müller II,Michael Müller,SPD,"SPD, DIE LINKE, GRÜNE",2016-12-08,2021-12-21,,https://de.wikipedia.org/wiki/Senat_Müller_II
+BE,Senat Giffey,Franziska Giffey,SPD,"SPD, GRÜNE, DIE LINKE",2021-12-21,2023-04-27,,https://de.wikipedia.org/wiki/Senat_Giffey
+BE,Senat Wegner,Kai Wegner,CDU,"CDU, SPD",2023-04-27,NA (in office / caretaker after 2026-09-20),,https://de.wikipedia.org/wiki/Senat_Wegner

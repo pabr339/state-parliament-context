@@ -1,0 +1,11 @@
+# event logs are obtained from the Hillmann et al. repository (see README)
+data/eventlogs/*.xes
+data/eventlogs/*.zip
+# newspaper screenshots are not redistributed (copyright of the publishers)
+data/images/*.png
+data/images/*.jpg
+# generated output
+derived/
+figures/
+__pycache__/
+.DS_Store

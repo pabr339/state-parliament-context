@@ -1,0 +1,308 @@
+election_id,state,election_date,party_label,party,votes,vote_pct,vote_pct_reported,seats,seat_pct,change_pp,change_rel_pct,change_seats,role_initial,in_gov_any_time,gov_share_of_cycle,source
+BB_1990-10-14,BB,1990-10-14,SPD,SPD,487134,38.24,38.2,36,40.91,,,,government,True,0.987,https://en.wikipedia.org/wiki/1990_Brandenburg_state_election
+BB_1990-10-14,BB,1990-10-14,CDU,CDU,374572,29.4,29.4,27,30.68,,,,opposition,False,0.0,https://en.wikipedia.org/wiki/1990_Brandenburg_state_election
+BB_1990-10-14,BB,1990-10-14,PDS (LL/PDS),LINKE,170804,13.41,13.4,13,14.77,,,,opposition,False,0.0,https://en.wikipedia.org/wiki/1990_Brandenburg_state_election
+BB_1990-10-14,BB,1990-10-14,FDP,FDP,84501,6.63,6.6,6,6.82,,,,government,True,0.987,https://en.wikipedia.org/wiki/1990_Brandenburg_state_election
+BB_1990-10-14,BB,1990-10-14,Bündnis 90,GRUENE,81725,6.42,6.4,6,6.82,,,,government,True,0.852,https://en.wikipedia.org/wiki/1990_Brandenburg_state_election
+BB_1990-10-14,BB,1990-10-14,Grüne,GRUENE,36238,2.84,2.8,0,0.0,,,,government,True,0.852,https://en.wikipedia.org/wiki/1990_Brandenburg_state_election
+BB_1990-10-14,BB,1990-10-14,Sonstige,OTHER,24301,1.91,1.9,0,0.0,,,,,,,https://en.wikipedia.org/wiki/1990_Brandenburg_state_election
+BB_1990-10-14,BB,1990-10-14,REP,REP,14631,1.15,1.1,0,0.0,,,,extra-parliamentary,False,0.0,https://en.wikipedia.org/wiki/1990_Brandenburg_state_election
+BB_1994-09-11,BB,1994-09-11,SPD,SPD,580422,54.14,54.1,52,59.09,15.9,41.59,16.0,government,True,1.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1994-09-11,BB,1994-09-11,CDU,CDU,200700,18.72,18.7,18,20.45,-10.68,-36.33,-9.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1994-09-11,BB,1994-09-11,PDS,LINKE,200628,18.71,18.7,18,20.45,5.31,39.58,5.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1994-09-11,BB,1994-09-11,GRÜNE/B 90,GRUENE,31033,2.89,2.9,0,0.0,-6.37,-68.74,-6.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1994-09-11,BB,1994-09-11,Sonstige (incl. REP),OTHER,25290,2.36,2.4,0,0.0,0.45,23.67,0.0,,,,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1994-09-11,BB,1994-09-11,FDP,FDP,23541,2.2,2.2,0,0.0,-4.44,-66.89,-6.0,extra-parliamentary,True,0.016,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1994-09-11,BB,1994-09-11,Bürger,X_BÜRGER,10405,0.97,1.0,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,SPD,SPD,433521,39.33,39.3,37,41.57,-14.82,-27.37,-15.0,government,True,1.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,CDU,CDU,292634,26.55,26.5,25,28.09,7.82,41.79,7.0,government,True,0.979,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,PDS,LINKE,257309,23.34,23.3,22,24.72,4.63,24.72,4.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,DVU,DVU,58247,5.28,5.3,5,5.62,,,,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,GRÜNE/B 90,GRUENE,21410,1.94,1.9,0,0.0,-0.95,-32.91,0.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,FDP,FDP,20472,1.86,1.9,0,0.0,-0.34,-15.43,0.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,NPD,NPD,8137,0.74,0.7,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,BFWG,X_BFWG,7008,0.64,0.6,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_1999-09-05,BB,1999-09-05,Sonstige,OTHER,3622,0.33,0.3,0,0.0,-2.03,-86.07,0.0,,,,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00010765/SB_B7-2-1_5j-04-Vorwahl_BB.pdf
+BB_2004-09-19,BB,2004-09-19,SPD,SPD,372942,31.91,31.9,33,37.5,-7.42,-18.87,-4.0,government,True,1.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,PDS,LINKE,326801,27.96,28.0,29,32.95,4.62,19.78,7.0,opposition,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,CDU,CDU,227062,19.43,19.4,20,22.73,-7.12,-26.83,-5.0,government,True,1.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,DVU,DVU,71041,6.08,6.1,6,6.82,0.79,15.02,1.0,opposition,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,GRÜNE/B 90,GRUENE,42091,3.6,3.6,0,0.0,1.66,85.4,0.0,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,FDP,FDP,38890,3.33,3.3,0,0.0,1.47,79.15,0.0,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,FAMILIE,X_FAMILIE,30843,2.64,2.6,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,50Plus,50PLUS,11875,1.02,1.0,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,AfW,X_AFW,11006,0.94,0.9,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,GRAUE,GRAUE,10470,0.9,0.9,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,AUB-Brandenburg,X_AUB-BRANDENBURG,9993,0.85,0.9,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,Sonstige,OTHER,9905,0.85,0.8,0,0.0,0.52,157.9,0.0,,,,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2004-09-19,BB,2004-09-19,BRB,X_BRB,5990,0.51,0.5,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Handbuch-web.pdf
+BB_2009-09-27,BB,2009-09-27,SPD,SPD,458840,33.04,33.0,31,35.23,1.14,3.56,-2.0,government,True,1.0,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,DIE LINKE,LINKE,377112,27.16,27.2,26,29.55,-0.8,-2.87,-3.0,government,True,0.978,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,CDU,CDU,274825,19.79,19.8,19,21.59,0.36,1.88,-1.0,opposition,True,0.022,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,FDP,FDP,100123,7.21,7.2,7,7.95,3.88,116.7,7.0,opposition,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,GRÜNE/B 90,GRUENE,78550,5.66,5.7,5,5.68,2.06,57.08,5.0,opposition,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,NPD,NPD,35544,2.56,2.6,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,FREIE WÄHLER,FW,23296,1.68,1.7,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,DVU,DVU,15903,1.15,1.1,0,0.0,-4.93,-81.16,-6.0,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,Sonstige,OTHER,9728,0.7,0.7,0,0.0,-0.15,-17.33,0.0,,,,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,50Plus,50PLUS,7905,0.57,0.6,0,0.0,-0.45,-43.97,0.0,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2009-09-27,BB,2009-09-27,RRP,X_RRP,6896,0.5,0.5,0,0.0,,,,extra-parliamentary,False,0.0,https://www.landtag.brandenburg.de/media_fast/6/Landtag%20HB_web.pdf
+BB_2014-09-14,BB,2014-09-14,SPD,SPD,315202,31.92,31.9,30,34.09,-1.12,-3.38,-1.0,government,True,1.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,CDU,CDU,226835,22.97,23.0,21,23.86,3.19,16.09,2.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,DIE LINKE,LINKE,183178,18.55,18.6,17,19.32,-8.6,-31.68,-9.0,government,True,1.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,AfD,AFD,120077,12.16,12.2,11,12.5,,,,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,GRÜNE/B 90,GRUENE,60767,6.15,6.2,6,6.82,0.5,8.81,1.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,BVB / FREIE WÄHLER,FW,26317,2.67,2.7,3,3.41,0.99,58.9,3.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,NPD,NPD,21605,2.19,2.2,0,0.0,-0.37,-14.5,0.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,PIRATEN,PIRATEN,14595,1.48,1.5,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,FDP,FDP,14376,1.46,1.5,0,0.0,-5.75,-79.8,-7.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2014-09-14,BB,2014-09-14,Sonstige,OTHER,4369,0.44,0.4,0,0.0,-0.26,-36.83,0.0,,,,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00005974/SB_B07-02-03_2014j05_BBa.pdf
+BB_2019-09-01,BB,2019-09-01,SPD,SPD,331238,26.18,26.2,25,28.41,-5.74,-17.99,-5.0,government,True,1.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,AfD,AFD,297484,23.51,23.5,23,26.14,11.35,93.35,12.0,opposition,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,CDU,CDU,196988,15.57,15.6,15,17.05,-7.4,-32.23,-6.0,government,True,0.957,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,GRÜNE/B 90,GRUENE,136364,10.78,10.8,10,11.36,4.62,75.13,4.0,government,True,0.957,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,DIE LINKE,LINKE,135558,10.72,10.7,10,11.36,-7.84,-42.25,-7.0,opposition,True,0.043,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,BVB / FREIE WÄHLER,FW,63851,5.05,5.0,5,5.68,2.38,89.35,2.0,opposition,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,FDP,FDP,51660,4.08,4.1,0,0.0,2.63,180.45,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,Tierschutzpartei,TIERSCHUTZ,32959,2.61,2.6,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,PIRATEN,PIRATEN,8712,0.69,0.7,0,0.0,-0.79,-53.42,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,ÖDP,OEDP,7237,0.57,0.6,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2019-09-01,BB,2019-09-01,Sonstige,OTHER,3055,0.24,0.2,0,0.0,-0.2,-45.43,0.0,,,,https://bundeswahlleiterin.de/service/landtagswahlen/land-12.html
+BB_2024-09-22,BB,2024-09-22,SPD,SPD,463800,30.89,30.9,32,36.36,4.7,17.97,7.0,government,True,1.0,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,AfD,AFD,438904,29.23,29.2,30,34.09,5.71,24.3,7.0,opposition,False,0.0,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,BSW,BSW,202421,13.48,13.5,14,15.91,,,,government,True,0.52,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,CDU,CDU,181716,12.1,12.1,12,13.64,-3.47,-22.28,-3.0,opposition,True,0.386,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,GRÜNE/B 90,GRUENE,62057,4.13,4.1,0,0.0,-6.65,-61.66,-10.0,extra-parliamentary,True,0.106,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,DIE LINKE,LINKE,44706,2.98,3.0,0,0.0,-7.74,-72.22,-10.0,extra-parliamentary,False,0.0,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,BVB / FREIE WÄHLER,FW,38573,2.57,2.6,0,0.0,-2.48,-49.1,-5.0,extra-parliamentary,False,0.0,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,Tierschutzpartei,TIERSCHUTZ,30041,2.0,2.0,0,0.0,-0.6,-23.21,0.0,extra-parliamentary,False,0.0,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,Plus,X_PLUS,13584,0.9,0.9,0,0.0,,,,extra-parliamentary,False,0.0,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,Sonstige,OTHER,13342,0.89,0.9,0,0.0,0.65,267.94,0.0,,,,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BB_2024-09-22,BB,2024-09-22,FDP,FDP,12475,0.83,0.8,0,0.0,-3.25,-79.66,0.0,extra-parliamentary,False,0.0,https://wahlen.brandenburg.de/sixcms/media.php/9/PM_35_%202024%20Endg%C3%BCltiges%20Ergebnis%20LTW%202024.pdf
+BE_1981-05-10,BE,1981-05-10,CDU,CDU,605265,47.95,48.0,65,49.24,3.55,8.01,2.0,government,True,0.977,https://en.wikipedia.org/wiki/1981_West_Berlin_state_election
+BE_1981-05-10,BE,1981-05-10,SPD,SPD,483778,38.33,38.3,51,38.64,-4.37,-10.24,-10.0,opposition,True,0.023,https://en.wikipedia.org/wiki/1981_West_Berlin_state_election
+BE_1981-05-10,BE,1981-05-10,AL,GRUENE,90653,7.18,7.2,9,6.82,3.48,94.12,9.0,opposition,False,0.0,https://en.wikipedia.org/wiki/1981_West_Berlin_state_election
+BE_1981-05-10,BE,1981-05-10,FDP,FDP,70529,5.59,5.6,7,5.3,-2.51,-31.01,-4.0,tolerating,True,0.54,https://en.wikipedia.org/wiki/1981_West_Berlin_state_election
+BE_1981-05-10,BE,1981-05-10,SEW,SEW,8176,0.65,0.6,0,0.0,-0.45,-41.11,0.0,extra-parliamentary,False,0.0,https://en.wikipedia.org/wiki/1981_West_Berlin_state_election
+BE_1981-05-10,BE,1981-05-10,Sonstige,OTHER,3765,0.3,0.3,0,0.0,,,,,,,https://en.wikipedia.org/wiki/1981_West_Berlin_state_election
+BE_1985-03-10,BE,1985-03-10,CDU,CDU,577867,46.41,46.4,69,47.92,-1.54,-3.21,4.0,government,True,1.0,https://en.wikipedia.org/wiki/1985_West_Berlin_state_election
+BE_1985-03-10,BE,1985-03-10,SPD,SPD,402875,32.36,32.4,48,33.33,-5.97,-15.58,-3.0,opposition,False,0.0,https://en.wikipedia.org/wiki/1985_West_Berlin_state_election
+BE_1985-03-10,BE,1985-03-10,AL,GRUENE,132484,10.64,10.6,15,10.42,3.46,48.16,6.0,opposition,False,0.0,https://en.wikipedia.org/wiki/1985_West_Berlin_state_election
+BE_1985-03-10,BE,1985-03-10,FDP,FDP,105209,8.45,8.5,12,8.33,2.86,51.23,5.0,government,True,1.0,https://en.wikipedia.org/wiki/1985_West_Berlin_state_election
+BE_1985-03-10,BE,1985-03-10,DA (Demokratische Alternative),X_DA_(DEMOKRATISCHE_ALTERNATIVE),15857,1.27,1.3,0,0.0,,,,extra-parliamentary,False,0.0,https://en.wikipedia.org/wiki/1985_West_Berlin_state_election
+BE_1985-03-10,BE,1985-03-10,SEW,SEW,7731,0.62,0.6,0,0.0,-0.03,-4.14,0.0,extra-parliamentary,False,0.0,https://en.wikipedia.org/wiki/1985_West_Berlin_state_election
+BE_1985-03-10,BE,1985-03-10,Sonstige,OTHER,2985,0.24,0.2,0,0.0,-0.06,-19.62,0.0,,,,https://en.wikipedia.org/wiki/1985_West_Berlin_state_election
+BE_1989-01-29,BE,1989-01-29,CDU,CDU,453211,37.75,37.7,55,39.86,-8.67,-18.68,-14.0,opposition,True,0.068,https://en.wikipedia.org/wiki/1989_West_Berlin_state_election
+BE_1989-01-29,BE,1989-01-29,SPD,SPD,448203,37.33,37.3,55,39.86,4.97,15.36,7.0,government,True,0.932,https://en.wikipedia.org/wiki/1989_West_Berlin_state_election
+BE_1989-01-29,BE,1989-01-29,AL,GRUENE,141529,11.79,11.8,17,12.32,1.15,10.77,2.0,government,True,0.912,https://en.wikipedia.org/wiki/1989_West_Berlin_state_election
+BE_1989-01-29,BE,1989-01-29,REP,REP,90222,7.51,7.5,11,7.97,,,,opposition,False,0.0,https://en.wikipedia.org/wiki/1989_West_Berlin_state_election
+BE_1989-01-29,BE,1989-01-29,FDP,FDP,47153,3.93,3.9,0,0.0,-4.52,-53.53,-12.0,extra-parliamentary,True,0.068,https://en.wikipedia.org/wiki/1989_West_Berlin_state_election
+BE_1989-01-29,BE,1989-01-29,Sonstige,OTHER,20354,1.7,1.7,0,0.0,1.46,607.05,0.0,,,,https://downloads.kas.de/wahlen/Wahldaten/Wahlen_in_Berlin.pdf
+BE_1990-12-02,BE,1990-12-02,CDU,CDU,815382,40.38,40.4,101,41.91,2.64,6.98,46.0,government,True,0.97,https://en.wikipedia.org/wiki/1990_Berlin_state_election
+BE_1990-12-02,BE,1990-12-02,SPD,SPD,614075,30.41,30.4,76,31.54,-6.92,-18.53,21.0,government,True,1.0,https://en.wikipedia.org/wiki/1990_Berlin_state_election
+BE_1990-12-02,BE,1990-12-02,PDS,LINKE,184820,9.15,9.2,23,9.54,,,,opposition,False,0.0,https://en.wikipedia.org/wiki/1990_Berlin_state_election
+BE_1990-12-02,BE,1990-12-02,FDP,FDP,143080,7.09,7.1,18,7.47,3.16,80.43,18.0,opposition,False,0.0,https://en.wikipedia.org/wiki/1990_Berlin_state_election
+BE_1990-12-02,BE,1990-12-02,GRÜNE/AL,GRUENE,100839,4.99,5.0,12,4.98,-2.44,-20.71,6.0,opposition,False,0.0,https://en.wikipedia.org/wiki/1990_Berlin_state_election
+BE_1990-12-02,BE,1990-12-02,Bündnis 90/Grüne/UFV,GRUENE,87891,4.35,4.4,11,4.56,-2.44,-20.71,6.0,opposition,False,0.0,https://en.wikipedia.org/wiki/1990_Berlin_state_election
+BE_1990-12-02,BE,1990-12-02,REP,REP,62041,3.07,3.1,0,0.0,-4.44,-59.11,-11.0,extra-parliamentary,False,0.0,https://en.wikipedia.org/wiki/1990_Berlin_state_election
+BE_1990-12-02,BE,1990-12-02,Sonstige,OTHER,11070,0.55,0.5,0,0.0,-1.15,-67.66,0.0,,,,https://en.wikipedia.org/wiki/1990_Berlin_state_election
+BE_1995-10-22,BE,1995-10-22,CDU,CDU,625005,37.44,37.4,87,42.23,-2.94,-7.28,-14.0,government,True,1.0,https://en.wikipedia.org/wiki/1995_Berlin_state_election
+BE_1995-10-22,BE,1995-10-22,SPD,SPD,393245,23.56,23.6,55,26.7,-6.85,-22.53,-21.0,government,True,1.0,https://en.wikipedia.org/wiki/1995_Berlin_state_election
+BE_1995-10-22,BE,1995-10-22,PDS,LINKE,244196,14.63,14.6,34,16.5,5.48,59.83,11.0,opposition,False,0.0,https://en.wikipedia.org/wiki/1995_Berlin_state_election
+BE_1995-10-22,BE,1995-10-22,GRÜNE,GRUENE,219990,13.18,13.2,30,14.56,3.83,41.01,7.0,opposition,False,0.0,https://en.wikipedia.org/wiki/1995_Berlin_state_election
+BE_1995-10-22,BE,1995-10-22,Sonstige,OTHER,70541,4.23,4.2,0,0.0,3.68,670.85,0.0,,,,https://en.wikipedia.org/wiki/1995_Berlin_state_election
+BE_1995-10-22,BE,1995-10-22,REP,REP,45462,2.72,2.7,0,0.0,-0.35,-11.36,0.0,extra-parliamentary,False,0.0,https://en.wikipedia.org/wiki/1995_Berlin_state_election
+BE_1995-10-22,BE,1995-10-22,FDP,FDP,42391,2.54,2.5,0,0.0,-4.55,-64.16,-18.0,extra-parliamentary,False,0.0,https://en.wikipedia.org/wiki/1995_Berlin_state_election
+BE_1995-10-22,BE,1995-10-22,GRAUE,GRAUE,28356,1.7,1.7,0,0.0,,,,extra-parliamentary,False,0.0,https://en.wikipedia.org/wiki/1995_Berlin_state_election
+BE_1999-10-10,BE,1999-10-10,CDU,CDU,637311,40.76,40.8,76,44.97,3.32,8.86,-11.0,government,True,0.829,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021700/Landeswahlleiterbericht_AH1999.pdf
+BE_1999-10-10,BE,1999-10-10,SPD,SPD,349731,22.37,22.4,42,24.85,-1.19,-5.06,-13.0,government,True,1.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021700/Landeswahlleiterbericht_AH1999.pdf
+BE_1999-10-10,BE,1999-10-10,PDS,LINKE,276869,17.71,17.7,33,19.53,3.08,21.04,-1.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021700/Landeswahlleiterbericht_AH1999.pdf
+BE_1999-10-10,BE,1999-10-10,GRÜNE,GRUENE,155322,9.93,9.9,18,10.65,-3.25,-24.63,-12.0,opposition,True,0.171,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021700/Landeswahlleiterbericht_AH1999.pdf
+BE_1999-10-10,BE,1999-10-10,REP,REP,41814,2.67,2.7,0,0.0,-0.05,-1.81,0.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021700/Landeswahlleiterbericht_AH1999.pdf
+BE_1999-10-10,BE,1999-10-10,FDP,FDP,34280,2.19,2.2,0,0.0,-0.35,-13.67,0.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021700/Landeswahlleiterbericht_AH1999.pdf
+BE_1999-10-10,BE,1999-10-10,Sonstige,OTHER,20920,1.34,1.3,0,0.0,-2.89,-68.34,0.0,,,,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021700/Landeswahlleiterbericht_AH1999.pdf
+BE_1999-10-10,BE,1999-10-10,GRAUE,GRAUE,17559,1.12,1.1,0,0.0,-0.58,-33.89,0.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021700/Landeswahlleiterbericht_AH1999.pdf
+BE_1999-10-10,BE,1999-10-10,Tierschutzpartei,TIERSCHUTZ,16732,1.07,1.1,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021700/Landeswahlleiterbericht_AH1999.pdf
+BE_1999-10-10,BE,1999-10-10,NPD,NPD,13038,0.83,0.8,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021666/Landeswahlleiterbericht_AH2001.pdf
+BE_2001-10-21,BE,2001-10-21,SPD,SPD,481772,29.68,29.7,44,31.21,7.31,32.68,2.0,government,True,1.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021666/Landeswahlleiterbericht_AH2001.pdf
+BE_2001-10-21,BE,2001-10-21,CDU,CDU,385692,23.76,23.8,35,24.82,-17.0,-41.71,-41.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021666/Landeswahlleiterbericht_AH2001.pdf
+BE_2001-10-21,BE,2001-10-21,PDS,LINKE,366292,22.56,22.6,33,23.4,4.86,27.43,0.0,government,True,0.951,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021666/Landeswahlleiterbericht_AH2001.pdf
+BE_2001-10-21,BE,2001-10-21,FDP,FDP,160953,9.91,9.9,15,10.64,7.72,352.24,15.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021666/Landeswahlleiterbericht_AH2001.pdf
+BE_2001-10-21,BE,2001-10-21,GRÜNE,GRUENE,148066,9.12,9.1,14,9.93,-0.81,-8.18,-4.0,opposition,True,0.049,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021666/Landeswahlleiterbericht_AH2001.pdf
+BE_2001-10-21,BE,2001-10-21,GRAUE,GRAUE,22093,1.36,1.4,0,0.0,0.24,21.19,0.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021666/Landeswahlleiterbericht_AH2001.pdf
+BE_2001-10-21,BE,2001-10-21,REP,REP,21836,1.35,1.3,0,0.0,-1.33,-49.7,0.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021666/Landeswahlleiterbericht_AH2001.pdf
+BE_2001-10-21,BE,2001-10-21,NPD,NPD,15110,0.93,0.9,0,0.0,0.1,11.63,0.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021666/Landeswahlleiterbericht_AH2001.pdf
+BE_2001-10-21,BE,2001-10-21,STATT Partei,X_STATT_PARTEI,13396,0.83,0.8,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021666/Landeswahlleiterbericht_AH2001.pdf
+BE_2001-10-21,BE,2001-10-21,Sonstige,OTHER,8128,0.5,0.5,0,0.0,-0.84,-62.58,0.0,,,,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021666/Landeswahlleiterbericht_AH2001.pdf
+BE_2006-09-17,BE,2006-09-17,SPD,SPD,424054,30.79,30.8,53,35.57,1.11,3.74,9.0,government,True,1.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00022758/Landeswahlleiterbericht_AH06.pdf
+BE_2006-09-17,BE,2006-09-17,CDU,CDU,294026,21.35,21.3,37,24.83,-2.41,-10.15,2.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00022758/Landeswahlleiterbericht_AH06.pdf
+BE_2006-09-17,BE,2006-09-17,Die Linke.PDS,LINKE,185185,13.44,13.4,23,15.44,-9.12,-40.41,-10.0,government,True,1.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00022758/Landeswahlleiterbericht_AH06.pdf
+BE_2006-09-17,BE,2006-09-17,GRÜNE,GRUENE,180865,13.13,13.1,23,15.44,4.01,43.97,9.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00022758/Landeswahlleiterbericht_AH06.pdf
+BE_2006-09-17,BE,2006-09-17,FDP,FDP,104584,7.59,7.6,13,8.72,-2.32,-23.42,-2.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00022758/Landeswahlleiterbericht_AH06.pdf
+BE_2006-09-17,BE,2006-09-17,GRAUE,GRAUE,52884,3.84,3.8,0,0.0,2.48,182.12,0.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00022758/Landeswahlleiterbericht_AH06.pdf
+BE_2006-09-17,BE,2006-09-17,WASG,WASG,40504,2.94,2.9,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00022758/Landeswahlleiterbericht_AH06.pdf
+BE_2006-09-17,BE,2006-09-17,NPD,NPD,35229,2.56,2.6,0,0.0,1.63,174.79,0.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00022758/Landeswahlleiterbericht_AH06.pdf
+BE_2006-09-17,BE,2006-09-17,Sonstige,OTHER,26329,1.91,1.9,0,0.0,1.41,281.78,0.0,,,,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00022758/Landeswahlleiterbericht_AH06.pdf
+BE_2006-09-17,BE,2006-09-17,REP,REP,11922,0.87,0.9,0,0.0,-0.48,-35.65,0.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00022758/Landeswahlleiterbericht_AH06.pdf
+BE_2006-09-17,BE,2006-09-17,Tierschutzpartei,TIERSCHUTZ,11707,0.85,0.8,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00022758/Landeswahlleiterbericht_AH06.pdf
+BE_2006-09-17,BE,2006-09-17,Eltern,X_ELTERN,10066,0.73,0.7,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00022758/Landeswahlleiterbericht_AH06.pdf
+BE_2011-09-18,BE,2011-09-18,SPD,SPD,413332,28.29,28.3,47,31.54,-2.5,-8.12,-6.0,government,True,1.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021591/SB_B7-2-3-j05-11_BE.pdf
+BE_2011-09-18,BE,2011-09-18,CDU,CDU,341158,23.35,23.3,39,26.17,2.0,9.37,2.0,government,True,0.963,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021591/SB_B7-2-3-j05-11_BE.pdf
+BE_2011-09-18,BE,2011-09-18,GRÜNE,GRUENE,257063,17.59,17.6,29,19.46,4.46,33.98,6.0,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021591/SB_B7-2-3-j05-11_BE.pdf
+BE_2011-09-18,BE,2011-09-18,DIE LINKE,LINKE,171050,11.71,11.7,19,12.75,-1.74,-12.93,-4.0,opposition,True,0.037,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021591/SB_B7-2-3-j05-11_BE.pdf
+BE_2011-09-18,BE,2011-09-18,PIRATEN,PIRATEN,130105,8.9,8.9,15,10.07,,,,opposition,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021591/SB_B7-2-3-j05-11_BE.pdf
+BE_2011-09-18,BE,2011-09-18,NPD,NPD,31241,2.14,2.1,0,0.0,-0.42,-16.41,0.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021591/SB_B7-2-3-j05-11_BE.pdf
+BE_2011-09-18,BE,2011-09-18,FDP,FDP,26943,1.84,1.8,0,0.0,-5.75,-75.72,-13.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021591/SB_B7-2-3-j05-11_BE.pdf
+BE_2011-09-18,BE,2011-09-18,Tierschutzpartei,TIERSCHUTZ,21654,1.48,1.5,0,0.0,0.63,74.35,0.0,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021591/SB_B7-2-3-j05-11_BE.pdf
+BE_2011-09-18,BE,2011-09-18,pro Deutschland,X_PRO_DEUTSCHLAND,17838,1.22,1.2,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021591/SB_B7-2-3-j05-11_BE.pdf
+BE_2011-09-18,BE,2011-09-18,Sonstige,OTHER,15855,1.09,1.1,0,0.0,-0.83,-43.24,0.0,,,,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021591/SB_B7-2-3-j05-11_BE.pdf
+BE_2011-09-18,BE,2011-09-18,DIE FREIHEIT,X_DIE_FREIHEIT,14073,0.96,1.0,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021591/SB_B7-2-3-j05-11_BE.pdf
+BE_2011-09-18,BE,2011-09-18,Die PARTEI,PARTEI,12861,0.88,0.9,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021591/SB_B7-2-3-j05-11_BE.pdf
+BE_2011-09-18,BE,2011-09-18,BIG,X_BIG,8012,0.55,0.5,0,0.0,,,,extra-parliamentary,False,0.0,https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/BBHeft_derivate_00021591/SB_B7-2-3-j05-11_BE.pdf
+BE_2016-09-18,BE,2016-09-18,SPD,SPD,352430,21.55,21.6,38,23.75,-6.73,-23.81,-9.0,government,True,1.0,https://www.wahlrecht.de/news/2016/abgeordnetenhauswahl-berlin-2016.html
+BE_2016-09-18,BE,2016-09-18,CDU,CDU,287997,17.61,17.6,31,19.38,-5.74,-24.56,-8.0,opposition,True,0.044,https://www.wahlrecht.de/news/2016/abgeordnetenhauswahl-berlin-2016.html
+BE_2016-09-18,BE,2016-09-18,DIE LINKE,LINKE,255701,15.64,15.6,27,16.88,3.93,33.58,8.0,government,True,0.956,https://www.wahlrecht.de/news/2016/abgeordnetenhauswahl-berlin-2016.html
+BE_2016-09-18,BE,2016-09-18,GRÜNE,GRUENE,248324,15.19,15.2,27,16.88,-2.41,-13.68,-2.0,government,True,0.956,https://www.wahlrecht.de/news/2016/abgeordnetenhauswahl-berlin-2016.html
+BE_2016-09-18,BE,2016-09-18,AfD,AFD,231492,14.16,14.2,25,15.62,,,,opposition,False,0.0,https://www.wahlrecht.de/news/2016/abgeordnetenhauswahl-berlin-2016.html
+BE_2016-09-18,BE,2016-09-18,FDP,FDP,109500,6.7,6.7,12,7.5,4.85,263.17,12.0,opposition,False,0.0,https://www.wahlrecht.de/news/2016/abgeordnetenhauswahl-berlin-2016.html
+BE_2016-09-18,BE,2016-09-18,Die PARTEI,PARTEI,31924,1.95,2.0,0,0.0,1.07,121.81,0.0,extra-parliamentary,False,0.0,https://www.wahlrecht.de/news/2016/abgeordnetenhauswahl-berlin-2016.html
+BE_2016-09-18,BE,2016-09-18,Sonstige,OTHER,31231,1.91,1.9,0,0.0,0.82,76.02,0.0,,,,https://www.wahlrecht.de/news/2016/abgeordnetenhauswahl-berlin-2016.html
+BE_2016-09-18,BE,2016-09-18,Tierschutzpartei,TIERSCHUTZ,30620,1.87,1.9,0,0.0,0.39,26.36,0.0,extra-parliamentary,False,0.0,https://www.wahlrecht.de/news/2016/abgeordnetenhauswahl-berlin-2016.html
+BE_2016-09-18,BE,2016-09-18,PIRATEN,PIRATEN,28332,1.73,1.7,0,0.0,-7.17,-80.54,-15.0,extra-parliamentary,False,0.0,https://www.wahlrecht.de/news/2016/abgeordnetenhauswahl-berlin-2016.html
+BE_2016-09-18,BE,2016-09-18,Graue Panther,GRAUE,18159,1.11,1.1,0,0.0,,,,extra-parliamentary,False,0.0,https://www.wahlrecht.de/news/2016/abgeordnetenhauswahl-berlin-2016.html
+BE_2016-09-18,BE,2016-09-18,NPD,NPD,9459,0.58,0.6,0,0.0,-1.56,-72.94,0.0,extra-parliamentary,False,0.0,https://www.wahlrecht.de/news/2016/abgeordnetenhauswahl-berlin-2016.html
+BE_2021-09-26,BE,2021-09-26,SPD,SPD,390329,21.43,21.4,36,24.49,-0.13,-0.58,-2.0,government,True,1.0,https://www.wahlen-berlin.de/wahlen/BE2021/afspraes/WB/SB_B07-02-03_2021j05_BE.pdf
+BE_2021-09-26,BE,2021-09-26,GRÜNE,GRUENE,343871,18.88,18.9,32,21.77,3.69,24.3,5.0,government,True,1.0,https://www.wahlen-berlin.de/wahlen/BE2021/afspraes/WB/SB_B07-02-03_2021j05_BE.pdf
+BE_2021-09-26,BE,2021-09-26,CDU,CDU,328587,18.04,18.0,30,20.41,0.43,2.41,-1.0,opposition,False,0.0,https://www.wahlen-berlin.de/wahlen/BE2021/afspraes/WB/SB_B07-02-03_2021j05_BE.pdf
+BE_2021-09-26,BE,2021-09-26,DIE LINKE,LINKE,256063,14.06,14.1,24,16.33,-1.58,-10.11,-3.0,government,True,1.0,https://www.wahlen-berlin.de/wahlen/BE2021/afspraes/WB/SB_B07-02-03_2021j05_BE.pdf
+BE_2021-09-26,BE,2021-09-26,AfD,AFD,145712,8.0,8.0,13,8.84,-6.16,-43.5,-12.0,opposition,False,0.0,https://www.wahlen-berlin.de/wahlen/BE2021/afspraes/WB/SB_B07-02-03_2021j05_BE.pdf
+BE_2021-09-26,BE,2021-09-26,FDP,FDP,130201,7.15,7.1,12,8.16,0.45,6.73,0.0,opposition,False,0.0,https://www.wahlen-berlin.de/wahlen/BE2021/afspraes/WB/SB_B07-02-03_2021j05_BE.pdf
+BE_2021-09-26,BE,2021-09-26,Sonstige,OTHER,63909,3.51,3.5,0,0.0,1.6,83.68,0.0,,,,https://www.wahlen-berlin.de/wahlen/BE2021/afspraes/WB/SB_B07-02-03_2021j05_BE.pdf
+BE_2021-09-26,BE,2021-09-26,Tierschutzpartei,TIERSCHUTZ,40128,2.2,2.2,0,0.0,0.33,17.64,0.0,extra-parliamentary,False,0.0,https://www.wahlen-berlin.de/wahlen/BE2021/afspraes/WB/SB_B07-02-03_2021j05_BE.pdf
+BE_2021-09-26,BE,2021-09-26,Die PARTEI,PARTEI,32800,1.8,1.8,0,0.0,-0.15,-7.77,0.0,extra-parliamentary,False,0.0,https://www.wahlen-berlin.de/wahlen/BE2021/afspraes/WB/SB_B07-02-03_2021j05_BE.pdf
+BE_2021-09-26,BE,2021-09-26,dieBasis,BASIS,23055,1.27,1.3,0,0.0,,,,extra-parliamentary,False,0.0,https://www.wahlen-berlin.de/wahlen/BE2021/afspraes/WB/SB_B07-02-03_2021j05_BE.pdf
+BE_2021-09-26,BE,2021-09-26,Volt,VOLT,20205,1.11,1.1,0,0.0,,,,extra-parliamentary,False,0.0,https://www.wahlen-berlin.de/wahlen/BE2021/afspraes/WB/SB_B07-02-03_2021j05_BE.pdf
+BE_2021-09-26,BE,2021-09-26,Team Todenhöfer,X_TEAM_TODENHÖFER,18853,1.03,1.0,0,0.0,,,,extra-parliamentary,False,0.0,https://www.wahlen-berlin.de/wahlen/BE2021/afspraes/WB/SB_B07-02-03_2021j05_BE.pdf
+BE_2021-09-26,BE,2021-09-26,FREIE WÄHLER,FW,15297,0.84,0.8,0,0.0,,,,extra-parliamentary,False,0.0,https://www.wahlen-berlin.de/wahlen/BE2021/afspraes/WB/SB_B07-02-03_2021j05_BE.pdf
+BE_2021-09-26,BE,2021-09-26,Die Grauen,GRAUE,12654,0.69,0.7,0,0.0,-0.42,-37.45,0.0,extra-parliamentary,False,0.0,https://www.wahlen-berlin.de/wahlen/BE2021/afspraes/WB/SB_B07-02-03_2021j05_BE.pdf
+BE_2023-02-12,BE,2023-02-12,CDU,CDU,428228,28.23,28.2,52,32.7,10.19,56.51,22.0,government,True,0.944,https://download.statistik-berlin-brandenburg.de/538210b8454f4642/99e340a74910/SB_B07-02-03_2023j05_BE.pdf
+BE_2023-02-12,BE,2023-02-12,SPD,SPD,279017,18.39,18.4,34,21.38,-3.03,-14.15,-2.0,government,True,1.0,https://download.statistik-berlin-brandenburg.de/538210b8454f4642/99e340a74910/SB_B07-02-03_2023j05_BE.pdf
+BE_2023-02-12,BE,2023-02-12,GRÜNE,GRUENE,278964,18.39,18.4,34,21.38,-0.49,-2.57,2.0,opposition,True,0.056,https://download.statistik-berlin-brandenburg.de/538210b8454f4642/99e340a74910/SB_B07-02-03_2023j05_BE.pdf
+BE_2023-02-12,BE,2023-02-12,DIE LINKE,LINKE,185119,12.2,12.2,22,13.84,-1.85,-13.18,-2.0,opposition,True,0.056,https://download.statistik-berlin-brandenburg.de/538210b8454f4642/99e340a74910/SB_B07-02-03_2023j05_BE.pdf
+BE_2023-02-12,BE,2023-02-12,AfD,AFD,137871,9.09,9.1,17,10.69,1.09,13.63,4.0,opposition,False,0.0,https://download.statistik-berlin-brandenburg.de/538210b8454f4642/99e340a74910/SB_B07-02-03_2023j05_BE.pdf
+BE_2023-02-12,BE,2023-02-12,FDP,FDP,70416,4.64,4.6,0,0.0,-2.51,-35.05,-12.0,extra-parliamentary,False,0.0,https://download.statistik-berlin-brandenburg.de/538210b8454f4642/99e340a74910/SB_B07-02-03_2023j05_BE.pdf
+BE_2023-02-12,BE,2023-02-12,Sonstige,OTHER,57013,3.76,3.8,0,0.0,0.25,7.14,0.0,,,,https://download.statistik-berlin-brandenburg.de/538210b8454f4642/99e340a74910/SB_B07-02-03_2023j05_BE.pdf
+BE_2023-02-12,BE,2023-02-12,Tierschutzpartei,TIERSCHUTZ,36273,2.39,2.4,0,0.0,0.19,8.56,0.0,extra-parliamentary,False,0.0,https://download.statistik-berlin-brandenburg.de/538210b8454f4642/99e340a74910/SB_B07-02-03_2023j05_BE.pdf
+BE_2023-02-12,BE,2023-02-12,Die PARTEI,PARTEI,21570,1.42,1.4,0,0.0,-0.38,-21.02,0.0,extra-parliamentary,False,0.0,https://download.statistik-berlin-brandenburg.de/538210b8454f4642/99e340a74910/SB_B07-02-03_2023j05_BE.pdf
+BE_2023-02-12,BE,2023-02-12,Volt,VOLT,14047,0.93,0.9,0,0.0,-0.18,-16.51,0.0,extra-parliamentary,False,0.0,https://download.statistik-berlin-brandenburg.de/538210b8454f4642/99e340a74910/SB_B07-02-03_2023j05_BE.pdf
+BE_2023-02-12,BE,2023-02-12,dieBasis,BASIS,8342,0.55,0.5,0,0.0,-0.72,-56.55,0.0,extra-parliamentary,False,0.0,https://download.statistik-berlin-brandenburg.de/538210b8454f4642/99e340a74910/SB_B07-02-03_2023j05_BE.pdf
+BE_2026-09-20,BE,2026-09-20,DIE LINKE,LINKE,468391,25.66,25.7,45,29.41,13.45,110.22,23.0,pending (caretaker),False,0.0,https://download.statistik-berlin-brandenburg.de/870314b4bc23589b/4d38d373adff/SB_B07-02-03_2026j05_BE.pdf
+BE_2026-09-20,BE,2026-09-20,CDU,CDU,342746,18.77,18.8,33,21.57,-9.46,-33.5,-19.0,pending (caretaker),True,1.0,https://download.statistik-berlin-brandenburg.de/870314b4bc23589b/4d38d373adff/SB_B07-02-03_2026j05_BE.pdf
+BE_2026-09-20,BE,2026-09-20,AfD,AFD,296718,16.25,16.3,29,18.95,7.16,78.81,12.0,pending (caretaker),False,0.0,https://download.statistik-berlin-brandenburg.de/870314b4bc23589b/4d38d373adff/SB_B07-02-03_2026j05_BE.pdf
+BE_2026-09-20,BE,2026-09-20,GRÜNE,GRUENE,260896,14.29,14.3,25,16.34,-4.1,-22.3,-9.0,pending (caretaker),False,0.0,https://download.statistik-berlin-brandenburg.de/870314b4bc23589b/4d38d373adff/SB_B07-02-03_2026j05_BE.pdf
+BE_2026-09-20,BE,2026-09-20,SPD,SPD,221116,12.11,12.1,21,13.73,-6.28,-34.16,-13.0,pending (caretaker),True,1.0,https://download.statistik-berlin-brandenburg.de/870314b4bc23589b/4d38d373adff/SB_B07-02-03_2026j05_BE.pdf
+BE_2026-09-20,BE,2026-09-20,BSW,BSW,86350,4.73,4.7,0,0.0,,,,pending (caretaker),False,0.0,https://download.statistik-berlin-brandenburg.de/870314b4bc23589b/4d38d373adff/SB_B07-02-03_2026j05_BE.pdf
+BE_2026-09-20,BE,2026-09-20,FDP,FDP,46384,2.54,2.5,0,0.0,-2.1,-45.27,0.0,pending (caretaker),False,0.0,https://download.statistik-berlin-brandenburg.de/870314b4bc23589b/4d38d373adff/SB_B07-02-03_2026j05_BE.pdf
+BE_2026-09-20,BE,2026-09-20,Tierschutzpartei,TIERSCHUTZ,38678,2.12,2.1,0,0.0,-0.27,-11.41,0.0,pending (caretaker),False,0.0,https://download.statistik-berlin-brandenburg.de/870314b4bc23589b/4d38d373adff/SB_B07-02-03_2026j05_BE.pdf
+BE_2026-09-20,BE,2026-09-20,Volt,VOLT,37950,2.08,2.1,0,0.0,1.15,124.47,0.0,pending (caretaker),False,0.0,https://download.statistik-berlin-brandenburg.de/870314b4bc23589b/4d38d373adff/SB_B07-02-03_2026j05_BE.pdf
+BE_2026-09-20,BE,2026-09-20,Die PARTEI,PARTEI,13349,0.73,0.7,0,0.0,-0.69,-48.58,0.0,pending (caretaker),False,0.0,https://download.statistik-berlin-brandenburg.de/870314b4bc23589b/4d38d373adff/SB_B07-02-03_2026j05_BE.pdf
+BE_2026-09-20,BE,2026-09-20,Sonstige,OTHER,13094,0.72,0.7,0,0.0,-3.04,-80.92,0.0,,,,https://download.statistik-berlin-brandenburg.de/870314b4bc23589b/4d38d373adff/SB_B07-02-03_2026j05_BE.pdf
+BW_1980-03-16,BW,1980-03-16,CDU,CDU,2407798,53.35,53.4,68,54.84,-3.35,-5.9,,government,True,1.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1980-03-16,BW,1980-03-16,SPD,SPD,1468873,32.55,32.5,40,32.26,-0.75,-2.26,,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1980-03-16,BW,1980-03-16,FDP/DVP,FDP,374633,8.3,8.3,10,8.06,0.5,6.43,,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1980-03-16,BW,1980-03-16,GRÜNE,GRUENE,241303,5.35,5.3,6,4.84,,,,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1980-03-16,BW,1980-03-16,Sonstige,OTHER,20402,0.45,0.5,0,0.0,,,,,,,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1984-03-25,BW,1984-03-25,CDU,CDU,2412085,51.87,51.9,68,53.97,-1.48,-2.78,0.0,government,True,1.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1984-03-25,BW,1984-03-25,SPD,SPD,1507088,32.41,32.4,41,32.54,-0.14,-0.43,1.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1984-03-25,BW,1984-03-25,GRÜNE,GRUENE,372374,8.01,8.0,9,7.14,2.66,49.77,3.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1984-03-25,BW,1984-03-25,FDP/DVP,FDP,333386,7.17,7.2,8,6.35,-1.13,-13.64,-2.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1984-03-25,BW,1984-03-25,Sonstige,OTHER,25253,0.54,0.5,0,0.0,0.09,20.13,0.0,,,,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1988-03-20,BW,1988-03-20,CDU,CDU,2392626,49.05,49.0,66,52.8,-2.82,-5.44,-2.0,government,True,1.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1988-03-20,BW,1988-03-20,SPD,SPD,1562678,32.03,32.0,42,33.6,-0.37,-1.16,1.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1988-03-20,BW,1988-03-20,GRÜNE,GRUENE,383099,7.85,7.9,10,8.0,-0.15,-1.93,1.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1988-03-20,BW,1988-03-20,FDP/DVP,FDP,285932,5.86,5.9,7,5.6,-1.31,-18.24,-1.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1988-03-20,BW,1988-03-20,NPD,NPD,101889,2.09,2.1,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1988-03-20,BW,1988-03-20,ÖDP,OEDP,69823,1.43,1.4,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1988-03-20,BW,1988-03-20,REP,REP,46904,0.96,1.0,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1988-03-20,BW,1988-03-20,Sonstige,OTHER,35111,0.72,0.7,0,0.0,0.18,32.54,0.0,,,,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1992-04-05,BW,1992-04-05,CDU,CDU,1960016,39.6,39.6,64,43.84,-9.45,-19.26,-2.0,government,True,1.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1992-04-05,BW,1992-04-05,SPD,SPD,1454477,29.39,29.4,46,31.51,-2.65,-8.26,4.0,government,True,0.954,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1992-04-05,BW,1992-04-05,REP,REP,539014,10.89,10.9,15,10.27,9.93,1032.67,15.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1992-04-05,BW,1992-04-05,GRÜNE,GRUENE,467781,9.45,9.5,13,8.9,1.6,20.35,3.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1992-04-05,BW,1992-04-05,FDP/DVP,FDP,291199,5.88,5.9,8,5.48,0.02,0.38,1.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1992-04-05,BW,1992-04-05,ÖDP,OEDP,93604,1.89,1.9,0,0.0,0.46,32.13,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1992-04-05,BW,1992-04-05,NPD,NPD,44416,0.9,0.9,0,0.0,-1.19,-57.03,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1992-04-05,BW,1992-04-05,DIE GRAUEN,GRAUE,28719,0.58,0.6,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1992-04-05,BW,1992-04-05,PBC,PBC,27272,0.55,0.6,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1992-04-05,BW,1992-04-05,DLVH,X_DLVH,23255,0.47,0.5,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1992-04-05,BW,1992-04-05,Sonstige,OTHER,19446,0.39,0.4,0,0.0,-0.33,-45.41,0.0,,,,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1996-03-24,BW,1996-03-24,CDU,CDU,1974619,41.27,41.3,69,44.52,1.67,4.22,5.0,government,True,1.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1996-03-24,BW,1996-03-24,SPD,SPD,1199123,25.06,25.1,39,25.16,-4.32,-14.71,-7.0,opposition,True,0.044,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1996-03-24,BW,1996-03-24,GRÜNE,GRUENE,580801,12.14,12.1,19,12.26,2.69,28.44,6.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1996-03-24,BW,1996-03-24,FDP/DVP,FDP,458478,9.58,9.6,14,9.03,3.7,62.88,6.0,government,True,0.956,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1996-03-24,BW,1996-03-24,REP,REP,437228,9.14,9.1,14,9.03,-1.75,-16.08,-1.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1996-03-24,BW,1996-03-24,ÖDP,OEDP,69775,1.46,1.5,0,0.0,-0.43,-22.89,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1996-03-24,BW,1996-03-24,Sonstige,OTHER,40855,0.85,0.9,0,0.0,0.46,117.34,0.0,,,,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_1996-03-24,BW,1996-03-24,PBC,PBC,23250,0.49,0.5,0,0.0,-0.07,-11.81,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2001-03-25,BW,2001-03-25,CDU,CDU,2029806,44.8,44.8,63,49.22,3.53,8.54,-6.0,government,True,1.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2001-03-25,BW,2001-03-25,SPD,SPD,1508358,33.29,33.3,45,35.16,8.23,32.82,6.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2001-03-25,BW,2001-03-25,FDP/DVP,FDP,367580,8.11,8.1,10,7.81,-1.47,-15.34,-4.0,government,True,1.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2001-03-25,BW,2001-03-25,GRÜNE,GRUENE,350383,7.73,7.7,10,7.81,-4.41,-36.3,-9.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2001-03-25,BW,2001-03-25,REP,REP,198534,4.38,4.4,0,0.0,-4.76,-52.05,-14.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2001-03-25,BW,2001-03-25,ÖDP,OEDP,32451,0.72,0.7,0,0.0,-0.74,-50.89,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2001-03-25,BW,2001-03-25,Sonstige,OTHER,23123,0.51,0.5,0,0.0,-0.34,-40.24,0.0,,,,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2001-03-25,BW,2001-03-25,PBC,PBC,20528,0.45,0.5,0,0.0,-0.03,-6.77,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2006-03-26,BW,2006-03-26,CDU,CDU,1748766,44.15,44.2,69,49.64,-0.65,-1.44,6.0,government,True,1.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2006-03-26,BW,2006-03-26,SPD,SPD,996207,25.15,25.2,38,27.34,-8.14,-24.45,-7.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2006-03-26,BW,2006-03-26,GRÜNE,GRUENE,462889,11.69,11.7,17,12.23,3.95,51.13,7.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2006-03-26,BW,2006-03-26,FDP/DVP,FDP,421994,10.65,10.7,15,10.79,2.54,31.33,5.0,government,True,1.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2006-03-26,BW,2006-03-26,WASG,WASG,121753,3.07,3.1,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2006-03-26,BW,2006-03-26,REP,REP,100081,2.53,2.5,0,0.0,-1.86,-42.33,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2006-03-26,BW,2006-03-26,Sonstige,OTHER,31186,0.79,0.8,0,0.0,0.28,54.29,0.0,,,,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2006-03-26,BW,2006-03-26,NPD,NPD,29219,0.74,0.7,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2006-03-26,BW,2006-03-26,PBC,PBC,26759,0.68,0.7,0,0.0,0.22,49.12,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2006-03-26,BW,2006-03-26,ÖDP,OEDP,21761,0.55,0.5,0,0.0,-0.17,-23.29,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2011-03-27,BW,2011-03-27,CDU,CDU,1943912,39.01,39.0,60,43.48,-5.15,-11.66,-9.0,opposition,True,0.025,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2011-03-27,BW,2011-03-27,GRÜNE,GRUENE,1206182,24.2,24.2,36,26.09,12.52,107.08,19.0,government,True,0.975,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2011-03-27,BW,2011-03-27,SPD,SPD,1152594,23.13,23.1,35,25.36,-2.03,-8.05,-3.0,government,True,0.975,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2011-03-27,BW,2011-03-27,FDP/DVP,FDP,262784,5.27,5.3,7,5.07,-5.38,-50.51,-8.0,opposition,True,0.025,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2011-03-27,BW,2011-03-27,DIE LINKE,LINKE,139700,2.8,2.8,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2011-03-27,BW,2011-03-27,PIRATEN,PIRATEN,103618,2.08,2.1,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2011-03-27,BW,2011-03-27,REP,REP,56723,1.14,1.1,0,0.0,-1.39,-54.96,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2011-03-27,BW,2011-03-27,NPD,NPD,48227,0.97,1.0,0,0.0,0.23,31.17,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2011-03-27,BW,2011-03-27,ÖDP,OEDP,42539,0.85,0.9,0,0.0,0.3,55.35,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2011-03-27,BW,2011-03-27,Sonstige,OTHER,27440,0.55,0.6,0,0.0,-0.24,-30.07,0.0,,,,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2016-03-13,BW,2016-03-13,GRÜNE,GRUENE,1623107,30.27,30.3,47,32.87,6.07,25.09,11.0,government,True,1.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2016-03-13,BW,2016-03-13,CDU,CDU,1447462,27.0,27.0,42,29.37,-12.01,-30.78,-18.0,government,True,0.967,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2016-03-13,BW,2016-03-13,AfD,AFD,809564,15.1,15.1,23,16.08,,,,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2016-03-13,BW,2016-03-13,SPD,SPD,679727,12.68,12.7,19,13.29,-10.45,-45.18,-16.0,opposition,True,0.033,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2016-03-13,BW,2016-03-13,FDP/DVP,FDP,445498,8.31,8.3,12,8.39,3.04,57.59,5.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2016-03-13,BW,2016-03-13,DIE LINKE,LINKE,156240,2.91,2.9,0,0.0,0.11,3.96,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2016-03-13,BW,2016-03-13,Sonstige,OTHER,106422,1.99,2.0,0,0.0,1.43,260.52,0.0,,,,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2016-03-13,BW,2016-03-13,ALFA,X_ALFA,54713,1.02,1.0,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2016-03-13,BW,2016-03-13,ÖDP,OEDP,38517,0.72,0.7,0,0.0,-0.14,-15.83,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2021-03-14,BW,2021-03-14,GRÜNE,GRUENE,1586192,32.64,32.6,58,37.66,2.37,7.81,11.0,government,True,1.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2021-03-14,BW,2021-03-14,CDU,CDU,1168975,24.05,24.1,42,27.27,-2.94,-10.9,0.0,government,True,1.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2021-03-14,BW,2021-03-14,SPD,SPD,535489,11.02,11.0,19,12.34,-1.66,-13.09,0.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2021-03-14,BW,2021-03-14,FDP/DVP,FDP,508429,10.46,10.5,18,11.69,2.15,25.91,6.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2021-03-14,BW,2021-03-14,AfD,AFD,473485,9.74,9.7,17,11.04,-5.36,-35.48,-6.0,opposition,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2021-03-14,BW,2021-03-14,DIE LINKE,LINKE,173317,3.57,3.6,0,0.0,0.65,22.38,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2021-03-14,BW,2021-03-14,FREIE WÄHLER,FW,146259,3.01,3.0,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2021-03-14,BW,2021-03-14,Die PARTEI,PARTEI,59463,1.22,1.2,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2021-03-14,BW,2021-03-14,dieBasis,BASIS,48497,1.0,1.0,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2021-03-14,BW,2021-03-14,KlimalisteBW,X_KLIMALISTEBW,42685,0.88,0.9,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2021-03-14,BW,2021-03-14,W2020,X_W2020,41128,0.85,0.8,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2021-03-14,BW,2021-03-14,ÖDP,OEDP,37819,0.78,0.8,0,0.0,0.06,8.32,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2021-03-14,BW,2021-03-14,Volt,VOLT,22782,0.47,0.5,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2021-03-14,BW,2021-03-14,Sonstige,OTHER,15131,0.31,0.3,0,0.0,-1.67,-84.31,0.0,,,,https://bundeswahlleiterin.de/dam/jcr/a333e523-0717-42ad-a772-d5ad7e7e97cc/ltw_erg_gesamt.pdf
+BW_2026-03-08,BW,2026-03-08,GRÜNE,GRUENE,1623208,30.2,30.2,56,35.67,-2.44,-7.48,-2.0,government,True,1.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-8.html
+BW_2026-03-08,BW,2026-03-08,CDU,CDU,1595929,29.69,29.7,56,35.67,5.64,23.43,14.0,government,True,1.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-8.html
+BW_2026-03-08,BW,2026-03-08,AfD,AFD,1010574,18.8,18.8,35,22.29,9.06,92.97,18.0,opposition,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-8.html
+BW_2026-03-08,BW,2026-03-08,SPD,SPD,298297,5.55,5.5,10,6.37,-5.47,-49.64,-9.0,opposition,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-8.html
+BW_2026-03-08,BW,2026-03-08,DIE LINKE,LINKE,236975,4.41,4.4,0,0.0,0.84,23.62,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-8.html
+BW_2026-03-08,BW,2026-03-08,FDP/DVP,FDP,235598,4.38,4.4,0,0.0,-6.08,-58.11,-18.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-8.html
+BW_2026-03-08,BW,2026-03-08,FREIE WÄHLER,FW,102716,1.91,1.9,0,0.0,-1.1,-36.51,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-8.html
+BW_2026-03-08,BW,2026-03-08,Sonstige,OTHER,99704,1.85,1.9,0,0.0,1.54,495.75,0.0,,,,https://bundeswahlleiterin.de/service/landtagswahlen/land-8.html
+BW_2026-03-08,BW,2026-03-08,BSW,BSW,76439,1.42,1.4,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-8.html
+BW_2026-03-08,BW,2026-03-08,Tierschutzpartei,TIERSCHUTZ,49827,0.93,0.9,0,0.0,,,,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-8.html
+BW_2026-03-08,BW,2026-03-08,Volt,VOLT,45842,0.85,0.9,0,0.0,0.38,81.92,0.0,extra-parliamentary,False,0.0,https://bundeswahlleiterin.de/service/landtagswahlen/land-8.html

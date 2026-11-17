@@ -1,0 +1,13 @@
+state,wahlperiode,constituent_session,term_end,note,source
+BE,9,,,constituent session date not found,
+BE,10,,,constituent session date not found,
+BE,11,,1991-01-11,,https://de.wikipedia.org/wiki/Abgeordnetenhaus_von_Berlin
+BE,12,1991-01-11,,constituent session in Nikolaikirche,https://de.wikipedia.org/wiki/Abgeordnetenhaus_von_Berlin
+BE,13,,,constituent session date not found,
+BE,14,,2001-11-29,end inferred from end of Diepgen's mandate (29 Nov 2001) – verify,https://en.wikipedia.org/wiki/Eberhard_Diepgen
+BE,15,2001-11-29,2006-10-26,start inferred (see WP14) – verify,https://www.parlament-berlin.de/ados/16/IIIPlen/protokoll/plen16-001-bp.pdf
+BE,16,2006-10-26,2011-10-27,,https://www.parlament-berlin.de/ados/16/IIIPlen/protokoll/plen16-001-bp.pdf
+BE,17,2011-10-27,2016-10-27,,https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Abgeordnetenhauses_von_Berlin_(17._Wahlperiode)
+BE,18,2016-10-27,2021-11-04,,https://www.parlament-berlin.de/ados/18/IIIPlen/protokoll/plen18-001-pp.pdf
+BE,19,2021-11-04,,re-constituted 2023-03-16 after the repeat election of 2023-02-12,https://www.parlament-berlin.de/ados/19/IIIPlen/protokoll/plen19-001-pp.pdf
+BE,20,,,constituent session pending/not found (election 2026-09-20),
