@@ -46,8 +46,8 @@ pip install -r requirements.txt
 cd scripts
 python 01_prepare_data.py                  # event logs -> derived/bills.csv, derived/halfyear_series.csv (~1 min)
 python fig_states_context_metrics.py       # figures/fig_states_context_metrics.png
-python fig_BW_timeline_questions_seats.py  # figures/fig_BW_timeline_questions_seats.png
-python fig_BB_institutionalization_half.py # figures/fig_BB_institutionalization_half.png
+python fig_BW_timeline_questions.py   # figures/fig_BW_timeline_questions.png
+python fig_BB_oppositionbills.py      # figures/fig_BB_oppositionbills.png
 ```
 
 The figure scripts also write the numbers they plot to `derived/`.

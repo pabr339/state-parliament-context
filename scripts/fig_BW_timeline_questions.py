@@ -94,5 +94,5 @@ parties = [p for p in PARTY_ORDER if p in used]
 fig.legend(handles=[Patch(color=PCOL[p], label=PN.get(p, p)) for p in parties], frameon=False, ncol=len(parties),
            fontsize=6, loc="upper center", bbox_to_anchor=(0.5, -0.42), bbox_transform=AX[1].transAxes)
 FIG_DIR.mkdir(exist_ok=True)
-fig.savefig(FIG_DIR / "fig_BW_timeline_questions_seats.png", dpi=300, bbox_inches="tight")
-print("saved", FIG_DIR / "fig_BW_timeline_questions_seats.png")
+fig.savefig(FIG_DIR / "fig_BW_timeline_questions.png", dpi=300, bbox_inches="tight")
+print("saved", FIG_DIR / "fig_BW_timeline_questions.png")
