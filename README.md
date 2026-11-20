@@ -1,4 +1,4 @@
-# Repository for paper in review: Making Sense of Process Dynamics in Legislative Processes Through Political Context
+# Repository for paper in review: Making Sense of Legislative Process Dynamics with Context-Driven Temporal Bracketing
 
 Data and scripts accompanying the paper on how electoral cycles and government–opposition
 constellations shape long-term legislative process behaviour in three German state parliaments:
