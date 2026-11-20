@@ -44,16 +44,23 @@ and `case:VTypL`.
 ```bash
 pip install -r requirements.txt
 cd scripts
-python 01_prepare_data.py                  # event logs -> derived/bills.csv, derived/halfyear_series.csv (~1 min)
-python fig_states_context_metrics.py       # figures/fig_states_context_metrics.png
-python fig_BW_timeline_questions.py   # figures/fig_BW_timeline_questions.png
-python fig_BB_oppositionbills.py      # figures/fig_BB_oppositionbills.png
+python 01_prepare_data.py               # event logs -> derived/bills.csv, halfyear_series.csv, small_questions.csv (~1 min)
+python fig_states_context_metrics.py    # figures/fig_states_context_metrics.png
+python fig_BW_timeline_questions.py     # figures/fig_BW_timeline_questions.png
+python fig_BB_oppositionbills.py        # figures/fig_BB_oppositionbills.png
+python bw_afd_questions.py              # optional: AfD questions per year after entry (also used by the BW figure)
 ```
 
-The figure scripts also write the numbers they plot to `derived/`.
-The Baden-Württemberg figure in the paper contains three newspaper headlines; these screenshots are not
-distributed (publishers' copyright). The script draws the figure without them – see
-[`data/images/README.md`](data/images/README.md).
+The figure scripts also write the numbers they plot to `derived/`:
+
+| script | output in `derived/` |
+|---|---|
+| `fig_states_context_metrics.py` | `states_metrics_by_term.csv` – process metrics per state and electoral term |
+| `fig_BW_timeline_questions.py` | `BW_afd_questions_per_year.csv` – AfD/ABW questions in years 1–5 after entry |
+| `fig_BB_oppositionbills.py` | `BB_rejection_days_half.csv` – first-reading rejections and draft→decision days per half-term |
+
+All figures start in 1990. The first Berlin term in the data (West Berlin, 1989–1990) is excluded
+because it belongs to a different polity than the reunified Abgeordnetenhaus elected in December 1990.
 
 ## Definitions used in the scripts
 
@@ -73,15 +80,21 @@ distributed (publishers' copyright). The script draws the figure without them �
   `Beschlussempfehlung`). The plenary vote itself is not recorded in the logs; rejection is inferred
   from this pattern.
 - **Written small questions**: cases starting with a *Kleine Anfrage* (BE also *Schriftliche Anfrage*;
-  BW *Kleine Anfrage und Antwort*), counted by the date of the answer.
+  BW *Kleine Anfrage und Antwort*). In BE and BB they are counted by the date of the answer. In BW
+  question and answer form a single document whose date in the log is the date of submission
+  (*Eingegangen*); BW questions are therefore counted by submission date. Each question is attributed to
+  the party of its first author.
+- **AfD questions after entry (BW)**: questions whose first author belongs to the AfD or its 2016 split
+  group ABW, counted per year since the constituent session of the 16th Landtag (11 May 2016); years
+  1–5 cover the 2016–21 term.
 
 ## Repository structure
 
 ```
 data/political_context/   political context dataset (CSV) + build scripts
 data/eventlogs/           place the Hillmann et al. event logs here (not included)
-data/images/              optional newspaper screenshots (not included)
-scripts/                  data preparation and figure scripts
+scripts/                  data preparation, analysis and figure scripts
+derived/, figures/        created by the scripts (not tracked)
 ```
 
 ## License

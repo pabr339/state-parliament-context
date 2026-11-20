@@ -7,7 +7,6 @@ import pandas as pd
 ROOT = Path(__file__).resolve().parents[1]
 PC_DIR = ROOT / "data" / "political_context" / "combined"   # political context tables
 LOG_DIR = ROOT / "data" / "eventlogs"                        # event logs from Hillmann et al. (not included)
-IMG_DIR = ROOT / "data" / "images"                           # optional newspaper screenshots (not included)
 DERIVED = ROOT / "derived"                                   # written by 01_prepare_data.py
 FIG_DIR = ROOT / "figures"
 

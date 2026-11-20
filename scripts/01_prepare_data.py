@@ -4,6 +4,7 @@ Input : data/eventlogs/<state>-all-preprocessed.xes(.zip)   (see README for down
         data/political_context/combined/*.csv
 Output: derived/bills.csv            one row per bill (case containing a 'Gesetzentwurf')
         derived/halfyear_series.csv  bills and written small questions per half-year
+        derived/small_questions.csv  one row per written small question (dates, first author's party)
 """
 import ast, re, sys, tempfile, zipfile
 from pathlib import Path
@@ -177,7 +178,9 @@ def small_questions(st, df):
         ad = qd
     else:
         ad = a[a["concept:name"].astype(str).str.startswith("Antwort")].groupby("case:concept:name")["time:timestamp"].min()
-    return pd.DataFrame({"q_date": qd, "a_date": ad}).assign(state=st).reset_index()
+    # party of the first author (Urheber lists MPs as "Name (PARTY)" followed by the ministry)
+    first_author = a.groupby("case:concept:name")["Urheber"].first().astype(str).str.extract(r"\(([^()]*)\)")[0]
+    return pd.DataFrame({"q_date": qd, "a_date": ad, "party": first_author}).assign(state=st).reset_index()
 
 
 def halfyear_series(st, Bst, Q):
@@ -201,12 +204,14 @@ def halfyear_series(st, Bst, Q):
 
 if __name__ == "__main__":
     el, gt, pr = load_context()
-    bills, series = [], []
+    bills, series, sq = [], [], []
     for st in STATES:
         print(f"reading {st} ...", flush=True)
         df = read_log(st)
         Bst = bill_table(st, df)
-        series.append(halfyear_series(st, Bst, small_questions(st, df)))
+        Qst = small_questions(st, df)
+        sq.append(Qst)
+        series.append(halfyear_series(st, Bst, Qst))
         bills.append(Bst)
     B = pd.concat(bills, ignore_index=True)
     for a, b in [("start_ts", "start"), ("end_ts", "end"), ("promul_ts", "promul_date")]:
@@ -218,4 +223,5 @@ if __name__ == "__main__":
             "outcome", "outcome_date", "T_days"]
     B[cols].to_csv(DERIVED / "bills.csv", index=False)
     pd.concat(series).to_csv(DERIVED / "halfyear_series.csv", index=False)
+    pd.concat(sq).rename(columns={"case:concept:name": "case"}).to_csv(DERIVED / "small_questions.csv", index=False)
     print(f"wrote {len(B)} bills and {sum(len(s) for s in series)} half-year rows to {DERIVED}")

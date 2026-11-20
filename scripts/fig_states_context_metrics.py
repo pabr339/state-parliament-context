@@ -13,7 +13,8 @@ apply_style()
 el, gt, pr = load_context()
 B0 = load_bills()
 DATA_END = B0.start.max()
-X0, X1 = 1989.0, fy(DATA_END) + 0.3
+X0, X1 = 1990.0, fy(DATA_END) + 0.3
+EXCLUDE_TERMS = {"BE_1989-01-29"}   # West Berlin before unification: different polity
 STATES = ["BE", "BB", "BW"]
 C_GOV, C_OPP = "#333333", "#B36B00"
 ROWS = [("New bills (n)", "n", "{:.0f}"), ("Cycle time, median (d)", "ct_med", "{:.0f}"),
@@ -36,7 +37,7 @@ for bi, st in enumerate(STATES):
     ed = sorted(pd.to_datetime(el[el.state == st].election_date))
 
     # table: metrics per electoral term, government side vs opposition
-    B = B0[(B0.state == st) & B0.init2.isin(["government side", "opposition"])]
+    B = B0[(B0.state == st) & B0.init2.isin(["government side", "opposition"]) & ~B0.cyc_id.isin(EXCLUDE_TERMS)]
     TB = B.groupby(["cyc_id", "init2"]).agg(n=("case", "size"), ct_med=("dur_days", "median"), ct_mean=("dur_days", "mean"),
                                            ev_med=("n_events", "median"), ev_mean=("n_events", "mean")).reset_index()
     TB.insert(0, "state", st)
@@ -57,18 +58,15 @@ for bi, st in enumerate(STATES):
             ax.axhspan(k, k + 2, color="#f2f2f2", lw=0, zorder=0)
         for gi, (g, gc) in enumerate([("government side", C_GOV), ("opposition", C_OPP)]):
             y = k + 0.5
-            ax.text(-0.01, y, f"{lab} – {'gov.' if gi == 0 else 'opp.'}", transform=tr, ha="right", va="center", fontsize=5.5, color=gc)
+            ax.text(-0.01, y, f"{lab} – {'gov.' if gi == 0 else 'opp.'}", transform=tr, ha="right", va="center", fontsize=6, color=gc)
             for c, a, b in zip(cyc_ids, starts, nxt):
                 v = TB[(TB.cyc_id == c) & (TB.init2 == g)][col]
                 if len(v) and fy(b) > X0 + 0.5:
-                    ax.text((max(fy(a), X0) + min(fy(b), X1)) / 2, y, fmt.format(v.iloc[0]), ha="center", va="center", fontsize=5.5, color=gc)
+                    ax.text((max(fy(a), X0) + min(fy(b), X1)) / 2, y, fmt.format(v.iloc[0]), ha="center", va="center", fontsize=7, color=gc)
             k += 1
     ax.axhline(2, color="#999", lw=0.5)
     if fy(starts[0]) > X0 + 0.2:          # period before the first term with data
         ax.axvspan(X0, fy(starts[0]), color="white", zorder=1, lw=0)
-        if st != "BB":
-            ax.text((X0 + fy(starts[0])) / 2, NR / 2, "no bill data", ha="center", va="center",
-                    fontsize=6, color="#888", style="italic", zorder=2)
     ax.set_title("Process metrics per electoral term (bills; cycle time = first to last event)", fontsize=7)
 
     # seat composition
